@@ -1,0 +1,277 @@
+[01-09-2021 04:42:17] Successfully created debug_log.txt.
+[01-09-2021 04:42:17] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[01-09-2021 04:42:17] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[01-09-2021 04:42:17] Succesfully started SetHome v1.21.2
+Server stopping...
+[01-09-2021 04:42:17] Plugin stopped.
+[01-09-2021 04:50:13] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[01-09-2021 04:50:13] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[01-09-2021 04:50:13] Succesfully started SetHome v1.21.2
+Server stopping...
+[01-09-2021 04:50:13] Plugin stopped.
+[01-09-2021 04:52:35] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[01-09-2021 04:52:35] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[01-09-2021 04:52:35] Succesfully started SetHome v1.21.2
+Server stopping...
+[01-09-2021 04:52:35] Plugin stopped.
+[01-09-2021 21:29:35] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[01-09-2021 21:29:35] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[01-09-2021 21:29:35] Succesfully started SetHome v1.21.2
+[02-09-2021 04:02:49] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[02-09-2021 04:02:49] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[02-09-2021 04:02:49] Succesfully started SetHome v1.21.2
+[02-09-2021 16:35:33] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[02-09-2021 16:35:33] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[02-09-2021 16:35:33] Succesfully started SetHome v1.21.2
+Server stopping...
+[02-09-2021 16:35:33] Plugin stopped.
+[02-09-2021 16:58:52] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[02-09-2021 16:58:52] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[02-09-2021 16:58:52] Succesfully started SetHome v1.21.2
+Server stopping...
+[02-09-2021 16:58:52] Plugin stopped.
+[02-09-2021 17:04:58] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[02-09-2021 17:04:58] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[02-09-2021 17:04:58] Succesfully started SetHome v1.21.2
+Server stopping...
+[02-09-2021 17:04:58] Plugin stopped.
+[02-09-2021 17:08:07] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[02-09-2021 17:08:07] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[02-09-2021 17:08:07] Succesfully started SetHome v1.21.2
+==================================
+config test: null
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: 43419060-d004-34c9-9bb9-737d6ad4a689
+Home name: home
+X: -1345.0877762096359
+Y: 63.0
+Z: 8457.224153780566
+world: world
+[02-09-2021 17:08:33] Successfully was able to save home to config.
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+==================================
+config test: null
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: fd8b6868-6512-3dd9-92dc-a8a1451d0ee2
+Home name: casa
+X: -70.3335349496456
+Y: 75.0
+Z: -938.1856390641769
+world: world
+[02-09-2021 17:08:33] Successfully was able to save home to config.
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+==================================
+config test: null
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: 0f443b1a-b4a7-3eb9-8fe3-f60ddfdaab76
+Home name: home
+X: -62.693034490378366
+Y: 75.0
+Z: -924.8301601509221
+world: world
+[02-09-2021 17:08:33] Successfully was able to save home to config.
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+==================================
+config test: MemorySection[path='players.homes.0f443b1a-b4a7-3eb9-8fe3-f60ddfdaab76', root='YamlConfiguration']
+i: 2
+Player doesn't have permission homes.2
+canSetHome: false
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player Dfoz teleported to home home. Location: Location{world=CraftWorld{name=world},x=-1345.0877762096359,y=63.0,z=8457.224153780566,pitch=0.0,yaw=0.0}
+Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWorld{name=world},x=-70.3335349496456,y=75.0,z=-938.1856390641769,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
+Server stopping...
+[02-09-2021 17:08:07] Plugin stopped.

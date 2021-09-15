@@ -1,0 +1,21 @@
+players:
+  homes:
+    43419060-d004-34c9-9bb9-737d6ad4a689:
+      home:
+        x: -1345.0877762096359
+        y: 63.0
+        z: 8457.224153780566
+        world: world
+    fd8b6868-6512-3dd9-92dc-a8a1451d0ee2:
+      casa:
+        x: -70.3335349496456
+        y: 75.0
+        z: -938.1856390641769
+        world: world
+    0f443b1a-b4a7-3eb9-8fe3-f60ddfdaab76:
+      home:
+        x: -62.693034490378366
+        y: 75.0
+        z: -924.8301601509221
+        world: world
+log-items: true

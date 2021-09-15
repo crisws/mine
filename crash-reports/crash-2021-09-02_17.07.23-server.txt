@@ -1,0 +1,338 @@
+---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 9/2/21, 5:07 PM
+Description: Watching Server
+
+java.lang.Error: Watchdog
+	at app//net.minecraft.world.level.World.getChunkAt(World.java:266)
+	at app//net.minecraft.world.level.IWorldReader.getChunkAt(SourceFile:140)
+	at app//net.minecraft.world.level.World.getChunkAt(World.java:260)
+	at app//net.minecraft.world.level.World.getType(World.java:571)
+	at app//net.minecraft.world.level.Explosion.a(Explosion.java:178)
+	at app//net.minecraft.world.level.World.createExplosion(World.java:675)
+	at app//net.minecraft.server.level.WorldServer.createExplosion(WorldServer.java:1108)
+	at app//net.minecraft.world.level.World.createExplosion(World.java:669)
+	at app//net.minecraft.world.entity.item.EntityTNTPrimed.explode(EntityTNTPrimed.java:104)
+	at app//net.minecraft.world.entity.item.EntityTNTPrimed.tick(EntityTNTPrimed.java:83)
+	at app//net.minecraft.server.level.WorldServer.entityJoinedWorld(WorldServer.java:759)
+	at app//net.minecraft.server.level.WorldServer$$Lambda$4547/0x00000008016486f0.accept(Unknown Source)
+	at app//net.minecraft.world.level.World.a(World.java:654)
+	at app//net.minecraft.server.level.WorldServer.lambda$11(WorldServer.java:481)
+	at app//net.minecraft.server.level.WorldServer$$Lambda$4546/0x00000008016484b8.accept(Unknown Source)
+	at app//net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54)
+	at app//net.minecraft.server.level.WorldServer.doTick(WorldServer.java:462)
+	at app//net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1254)
+	at app//net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:425)
+	at app//net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1172)
+	at app//net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1014)
+	at app//net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:295)
+	at app//net.minecraft.server.MinecraftServer$$Lambda$3766/0x000000080136d918.run(Unknown Source)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at app//net.minecraft.world.level.World.getChunkAt(World.java:266)
+	at app//net.minecraft.world.level.IWorldReader.getChunkAt(SourceFile:140)
+	at app//net.minecraft.world.level.World.getChunkAt(World.java:260)
+	at app//net.minecraft.world.level.World.getType(World.java:571)
+	at app//net.minecraft.world.level.Explosion.a(Explosion.java:178)
+	at app//net.minecraft.world.level.World.createExplosion(World.java:675)
+	at app//net.minecraft.server.level.WorldServer.createExplosion(WorldServer.java:1108)
+	at app//net.minecraft.world.level.World.createExplosion(World.java:669)
+	at app//net.minecraft.world.entity.item.EntityTNTPrimed.explode(EntityTNTPrimed.java:104)
+	at app//net.minecraft.world.entity.item.EntityTNTPrimed.tick(EntityTNTPrimed.java:83)
+	at app//net.minecraft.server.level.WorldServer.entityJoinedWorld(WorldServer.java:759)
+	at app//net.minecraft.server.level.WorldServer$$Lambda$4547/0x00000008016486f0.accept(Unknown Source)
+	at app//net.minecraft.world.level.World.a(World.java:654)
+	at app//net.minecraft.server.level.WorldServer.lambda$11(WorldServer.java:481)
+	at app//net.minecraft.server.level.WorldServer$$Lambda$4546/0x00000008016484b8.accept(Unknown Source)
+	at app//net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54)
+	at app//net.minecraft.server.level.WorldServer.doTick(WorldServer.java:462)
+	at app//net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1254)
+	at app//net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:425)
+	at app//net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1172)
+	at app//net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1014)
+	at app//net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:295)
+
+-- Thread Dump --
+Details:
+	Threads: "Reference Handler" daemon prio=10 Id=2 RUNNABLE
+	at java.base@16.0.2/java.lang.ref.Reference.waitForReferencePendingList(Native Method)
+	at java.base@16.0.2/java.lang.ref.Reference.processPendingReferences(Reference.java:243)
+	at java.base@16.0.2/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)
+
+
+"Finalizer" daemon prio=8 Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@1f4ffe5
+	at java.base@16.0.2/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@1f4ffe5
+	at java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176)
+	at java.base@16.0.2/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:171)
+
+
+"Signal Dispatcher" daemon prio=9 Id=4 RUNNABLE
+
+
+"Notification Thread" daemon prio=9 Id=10 RUNNABLE
+
+
+"Common-Cleaner" daemon prio=8 Id=11 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@f3311ab
+	at java.base@16.0.2/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@f3311ab
+	at java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at java.base@16.0.2/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+	at java.base@16.0.2/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:134)
+
+
+"Worker-Bootstrap-1" daemon prio=5 Id=17 RUNNABLE
+	at java.base@16.0.2/java.util.Objects.equals(Objects.java:64)
+	at app//com.mojang.datafixers.optics.Optic$CompositionOptic.equals(Optic.java:56)
+	at java.base@16.0.2/java.util.Objects.equals(Objects.java:64)
+	at app//com.mojang.datafixers.functions.PointFreeRule$LensComp.doRewrite(PointFreeRule.java:360)
+	at app//com.mojang.datafixers.functions.PointFreeRule$CompRewrite.rewrite(PointFreeRule.java:190)
+	at app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567)
+	at app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571)
+	at app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567)
+	...
+
+
+"Timer hack thread" daemon prio=5 Id=18 TIMED_WAITING
+	at java.base@16.0.2/java.lang.Thread.sleep(Native Method)
+	at app//net.minecraft.SystemUtils$6.run(SourceFile:714)
+
+
+"Worker-Main-2" daemon prio=5 Id=19 WAITING on java.util.concurrent.ForkJoinPool@b0c9495
+	at java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.ForkJoinPool@b0c9495
+	at java.base@16.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:211)
+	at java.base@16.0.2/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1633)
+	at java.base@16.0.2/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+
+"Snooper Timer" daemon prio=5 Id=21 WAITING on java.util.TaskQueue@4e0e1b90
+	at java.base@16.0.2/java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@4e0e1b90
+	at java.base@16.0.2/java.lang.Object.wait(Object.java:320)
+	at java.base@16.0.2/java.util.TimerThread.mainLoop(Timer.java:527)
+	at java.base@16.0.2/java.util.TimerThread.run(Timer.java:506)
+
+
+"NonBlockingInputStreamThread" daemon prio=5 Id=23 WAITING on org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream@6823ce63 owned by "Server console handler" Id=25
+	at java.base@16.0.2/java.lang.Object.wait(Native Method)
+	-  waiting on org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream@6823ce63
+	at app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"Server thread" prio=5 Id=20 RUNNABLE
+	at app//net.minecraft.world.level.World.getChunkAt(World.java:266)
+	at app//net.minecraft.world.level.IWorldReader.getChunkAt(SourceFile:140)
+	at app//net.minecraft.world.level.World.getChunkAt(World.java:260)
+	at app//net.minecraft.world.level.World.getType(World.java:571)
+	at app//net.minecraft.world.level.Explosion.a(Explosion.java:178)
+	at app//net.minecraft.world.level.World.createExplosion(World.java:675)
+	at app//net.minecraft.server.level.WorldServer.createExplosion(WorldServer.java:1108)
+	at app//net.minecraft.world.level.World.createExplosion(World.java:669)
+	...
+
+
+"DestroyJavaVM" prio=5 Id=26 RUNNABLE
+
+
+"TerminalConsoleWriter" daemon prio=5 Id=27 RUNNABLE
+	at java.base@16.0.2/java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.base@16.0.2/java.lang.ProcessImpl.<init>(ProcessImpl.java:313)
+	at java.base@16.0.2/java.lang.ProcessImpl.start(ProcessImpl.java:244)
+	at java.base@16.0.2/java.lang.ProcessBuilder.start(ProcessBuilder.java:1109)
+	at java.base@16.0.2/java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at java.base@16.0.2/java.lang.Runtime.exec(Runtime.java:590)
+	at java.base@16.0.2/java.lang.Runtime.exec(Runtime.java:449)
+	at app//org.bukkit.craftbukkit.libs.jline.internal.TerminalLineSettings.exec(TerminalLineSettings.java:196)
+	...
+
+
+"Server console handler" daemon prio=5 Id=25 RUNNABLE (in native)
+	at java.base@16.0.2/java.io.FileInputStream.readBytes(Native Method)
+	at java.base@16.0.2/java.io.FileInputStream.read(FileInputStream.java:271)
+	at java.base@16.0.2/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+	at java.base@16.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:263)
+	-  locked java.io.BufferedInputStream@7f0a3485
+	at app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169)
+	-  locked org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream@6823ce63
+	at app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137)
+	at app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246)
+	at app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261)
+	-  locked org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream@6823ce63
+	...
+
+
+"ObjectCleanerThread" daemon prio=1 Id=28 TIMED_WAITING on java.lang.ref.ReferenceQueue$Lock@10cdbfcd
+	at java.base@16.0.2/java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@10cdbfcd
+	at java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+	at app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54)
+	at app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"Netty Epoll Server IO #0" daemon prio=5 Id=29 RUNNABLE (in native)
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"IO-Worker-3" prio=5 Id=30 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	...
+
+
+"IO-Worker-4" prio=5 Id=31 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	...
+
+
+"IO-Worker-6" prio=5 Id=33 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	...
+
+
+"Timer-0" daemon prio=5 Id=34 TIMED_WAITING on java.util.TaskQueue@580777ae
+	at java.base@16.0.2/java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@580777ae
+	at java.base@16.0.2/java.util.TimerThread.mainLoop(Timer.java:553)
+	at java.base@16.0.2/java.util.TimerThread.run(Timer.java:506)
+
+
+"Server Watchdog" daemon prio=5 Id=35 RUNNABLE
+	at java.management@16.0.2/sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at java.management@16.0.2/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:521)
+	at java.management@16.0.2/sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:509)
+	at app//net.minecraft.server.dedicated.ThreadWatchdog.run(SourceFile:49)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"Netty Epoll Server IO #1" daemon prio=5 Id=36 RUNNABLE (in native)
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"Netty Epoll Server IO #2" daemon prio=5 Id=37 RUNNABLE
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"Netty Epoll Server IO #3" daemon prio=5 Id=38 RUNNABLE
+	at app//io.netty.channel.epoll.Native.epollWait0(Native Method)
+	at app//io.netty.channel.epoll.Native.epollWait(Native.java:114)
+	at app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239)
+	at app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256)
+	at app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+	at java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+
+
+"IO-Worker-7" prio=5 Id=39 TIMED_WAITING on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@2e21e4df
+	at java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361)
+	at java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116)
+	at java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	...
+
+
+
+Stacktrace:
+	at net.minecraft.server.dedicated.ThreadWatchdog.run(SourceFile:65)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+
+-- Performance stats --
+Details:
+	Random tick rate: 3
+	Level stats: ResourceKey[minecraft:dimension / minecraft:overworld]: players: 1, entities: 27829,27708,274,575,575,0,0 [minecraft:tnt:27190,minecraft:item:375,minecraft:sheep:32,minecraft:pig:32,minecraft:chicken:12], block_entities: 11 [minecraft:mob_spawner:11], block_ticks: 69, fluid_ticks: 0, chunk_source: Chunks[S] W: 2949 E: 27827,27706,274,575,575,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_nether]: players: 0, entities: 74,74,54,529,529,0,0 [minecraft:zombified_piglin:23,minecraft:skeleton:16,minecraft:strider:16,minecraft:blaze:10,minecraft:wither_skeleton:6], block_entities: 2 [minecraft:mob_spawner:2], block_ticks: 1, fluid_ticks: 396, chunk_source: Chunks[S] W: 2025 E: 74,74,54,529,529,0,0,
+ResourceKey[minecraft:dimension / minecraft:the_end]: players: 0, entities: 10,10,10,529,529,0,0 [minecraft:end_crystal:10], block_entities: 0 [], block_ticks: 10, fluid_ticks: 0, chunk_source: Chunks[S] W: 2025 E: 10,10,10,529,529,0,0
+
+-- System Details --
+Details:
+	Minecraft Version: 1.17.1
+	Minecraft Version ID: 1.17.1
+	Operating System: Linux (amd64) version 5.4.0-1055-azure
+	Java Version: 16.0.2, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode, sharing), Oracle Corporation
+	Memory: 793271296 bytes (756 MiB) / 2147483648 bytes (2048 MiB) up to 2147483648 bytes (2048 MiB)
+	CPUs: 2
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz
+	Identifier: Intel64 Family 6 Model 79 Stepping 1
+	Microarchitecture: Broadwell (Server)
+	Frequency (GHz): 2.30
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 2
+	Graphics card #0 name: Hyper-V virtual VGA
+	Graphics card #0 vendor: Microsoft Corporation (0x1414)
+	Graphics card #0 VRAM (MB): 0.00
+	Graphics card #0 deviceId: 0x5353
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 1968.17
+	Virtual memory used (MB): 2816.13
+	Swap memory total (MB): 0.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 2 total; -Xmx2048M -Xms2048M
+	CraftBukkit Information: 
+   Running: CraftBukkit version 3232-Bukkit-cbd747a (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) false
+   Plugins: { SetHome v1.2 eltik.set.home.Core [Eltik], TPA v2.2.2* it.tpa.TPA [CredibleLotus12], Take-Me-Back v2.0* back.mrcomputer.back.Main [MrComputer], LoginSecurity v3.0.2* com.lenis0012.bukkit.loginsecurity.LoginSecurity [lenis0012],}
+   Warnings: DEFAULT
+   Reload Count: 0
+   Threads: { TIMED_WAITING IO-Worker-6: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361), java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], TIMED_WAITING process reaper: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361), java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], WAITING Worker-Main-2: [app//net.minecraft.world.level.lighting.LightEngineStorage.a(SourceFile:242), app//net.minecraft.world.level.lighting.LightEngineLayer.a(SourceFile:186), app//net.minecraft.world.level.lighting.LightEngine.a(SourceFile:63), app//net.minecraft.server.level.LightEngineThreaded.e(SourceFile:177), app//net.minecraft.server.level.LightEngineThreaded.a(SourceFile:107), app//net.minecraft.server.level.LightEngineThreaded$$Lambda$4126/0x00000008014f9cb8.run(Unknown Source), app//net.minecraft.server.level.ChunkTaskQueueSorter.b(SourceFile:58), app//net.minecraft.server.level.ChunkTaskQueueSorter$$Lambda$4137/0x00000008014fb9b8.run(Unknown Source), app//net.minecraft.util.thread.ThreadedMailbox.g(SourceFile:91), app//net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:146), app//net.minecraft.util.thread.ThreadedMailbox.run(SourceFile:102), java.base@16.0.2/java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1434), java.base@16.0.2/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295), java.base@16.0.2/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016), java.base@16.0.2/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665), java.base@16.0.2/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598), java.base@16.0.2/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)], TIMED_WAITING ObjectCleanerThread: [java.base@16.0.2/java.lang.Object.wait(Native Method), java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), app//io.netty.util.internal.ObjectCleaner$1.run(ObjectCleaner.java:54), app//io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], TIMED_WAITING process reaper: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361), java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Server thread: [java.base@16.0.2/jdk.internal.misc.Unsafe.unpark(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.unpark(LockSupport.java:177), java.base@16.0.2/java.util.concurrent.ForkJoinPool.signalWork(ForkJoinPool.java:1495), java.base@16.0.2/java.util.concurrent.ForkJoinPool.externalPush(ForkJoinPool.java:1912), java.base@16.0.2/java.util.concurrent.ForkJoinPool.externalSubmit(ForkJoinPool.java:1930), java.base@16.0.2/java.util.concurrent.ForkJoinPool.execute(ForkJoinPool.java:2462), app//net.minecraft.util.thread.ThreadedMailbox.h(SourceFile:131), app//net.minecraft.util.thread.ThreadedMailbox.a(SourceFile:124), app//net.minecraft.server.level.ChunkTaskQueueSorter.a(SourceFile:125), app//net.minecraft.server.level.ChunkTaskQueueSorter.a(SourceFile:91), app//net.minecraft.server.level.ChunkTaskQueueSorter$$Lambda$4054/0x00000008014d3528.accept(Unknown Source), app//net.minecraft.util.thread.Mailbox$1.a(SourceFile:44), app//net.minecraft.server.level.LightEngineThreaded.a(SourceFile:104), app//net.minecraft.server.level.LightEngineThreaded.a(SourceFile:100), app//net.minecraft.server.level.LightEngineThreaded.a(SourceFile:61), app//net.minecraft.world.level.World.a(World.java:324), app//net.minecraft.world.level.World.setTypeAndData(World.java:277), app//net.minecraft.world.level.Explosion.a(Explosion.java:354), app//net.minecraft.world.level.World.createExplosion(World.java:676), app//net.minecraft.server.level.WorldServer.createExplosion(WorldServer.java:1108), app//net.minecraft.world.level.World.createExplosion(World.java:669), app//net.minecraft.world.entity.item.EntityTNTPrimed.explode(EntityTNTPrimed.java:104), app//net.minecraft.world.entity.item.EntityTNTPrimed.tick(EntityTNTPrimed.java:83), app//net.minecraft.server.level.WorldServer.entityJoinedWorld(WorldServer.java:759), app//net.minecraft.server.level.WorldServer$$Lambda$4547/0x00000008016486f0.accept(Unknown Source), app//net.minecraft.world.level.World.a(World.java:654), app//net.minecraft.server.level.WorldServer.lambda$11(WorldServer.java:481), app//net.minecraft.server.level.WorldServer$$Lambda$4546/0x00000008016484b8.accept(Unknown Source), app//net.minecraft.world.level.entity.EntityTickList.a(SourceFile:54), app//net.minecraft.server.level.WorldServer.doTick(WorldServer.java:462), app//net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1254), app//net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:425), app//net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1172), app//net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1014), app//net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:295), app//net.minecraft.server.MinecraftServer$$Lambda$3766/0x000000080136d918.run(Unknown Source), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Netty Epoll Server IO #0: [app//io.netty.channel.epoll.Native.epollWait0(Native Method), app//io.netty.channel.epoll.Native.epollWait(Native.java:114), app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Server console handler: [java.base@16.0.2/java.io.FileInputStream.readBytes(Native Method), java.base@16.0.2/java.io.FileInputStream.read(FileInputStream.java:271), java.base@16.0.2/java.io.BufferedInputStream.fill(BufferedInputStream.java:244), java.base@16.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:263), app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:169), app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:137), app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.read(NonBlockingInputStream.java:246), app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:261), app//org.bukkit.craftbukkit.libs.jline.internal.InputStreamReader.read(InputStreamReader.java:198), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readCharacter(ConsoleReader.java:2145), app//org.bukkit.craftbukkit.libs.jline.console.ConsoleReader.readLine(ConsoleReader.java:2349), app//net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:129)], WAITING TerminalConsoleWriter: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.park(LockSupport.java:341), java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionNode.block(AbstractQueuedSynchronizer.java:505), java.base@16.0.2/java.util.concurrent.ForkJoinPool.managedBlock(ForkJoinPool.java:3137), java.base@16.0.2/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:1614), java.base@16.0.2/java.util.concurrent.LinkedBlockingQueue.take(LinkedBlockingQueue.java:435), app//com.mojang.util.QueueLogAppender.getNextLogEvent(QueueLogAppender.java:77), app//org.bukkit.craftbukkit.v1_17_R1.util.TerminalConsoleWriterThread.run(TerminalConsoleWriterThread.java:31)], RUNNABLE Signal Dispatcher: [], TIMED_WAITING IO-Worker-4: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361), java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Netty Epoll Server IO #1: [app//io.netty.channel.epoll.Native.epollWait0(Native Method), app//io.netty.channel.epoll.Native.epollWait(Native.java:114), app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], TIMED_WAITING Timer hack thread: [java.base@16.0.2/java.lang.Thread.sleep(Native Method), app//net.minecraft.SystemUtils$6.run(SourceFile:714)], RUNNABLE DestroyJavaVM: [], RUNNABLE Notification Thread: [], TIMED_WAITING IO-Worker-3: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361), java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], WAITING Snooper Timer: [java.base@16.0.2/java.lang.Object.wait(Native Method), java.base@16.0.2/java.lang.Object.wait(Object.java:320), java.base@16.0.2/java.util.TimerThread.mainLoop(Timer.java:527), java.base@16.0.2/java.util.TimerThread.run(Timer.java:506)], TIMED_WAITING IO-Worker-7: [java.base@16.0.2/jdk.internal.misc.Unsafe.park(Native Method), java.base@16.0.2/java.util.concurrent.locks.LockSupport.parkNanos(LockSupport.java:252), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(SynchronousQueue.java:462), java.base@16.0.2/java.util.concurrent.SynchronousQueue$TransferStack.transfer(SynchronousQueue.java:361), java.base@16.0.2/java.util.concurrent.SynchronousQueue.poll(SynchronousQueue.java:937), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.getTask(ThreadPoolExecutor.java:1055), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1116), java.base@16.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], WAITING NonBlockingInputStreamThread: [java.base@16.0.2/java.lang.Object.wait(Native Method), app//org.bukkit.craftbukkit.libs.jline.internal.NonBlockingInputStream.run(NonBlockingInputStream.java:278), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], TIMED_WAITING Timer-0: [java.base@16.0.2/java.lang.Object.wait(Native Method), java.base@16.0.2/java.util.TimerThread.mainLoop(Timer.java:553), java.base@16.0.2/java.util.TimerThread.run(Timer.java:506)], WAITING Finalizer: [java.base@16.0.2/java.lang.Object.wait(Native Method), java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:176), java.base@16.0.2/java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:171)], TIMED_WAITING Common-Cleaner: [java.base@16.0.2/java.lang.Object.wait(Native Method), java.base@16.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155), java.base@16.0.2/jdk.internal.ref.CleanerImpl.run(CleanerImpl.java:140), java.base@16.0.2/java.lang.Thread.run(Thread.java:831), java.base@16.0.2/jdk.internal.misc.InnocuousThread.run(InnocuousThread.java:134)], RUNNABLE Server Watchdog: [java.base@16.0.2/java.lang.Thread.dumpThreads(Native Method), java.base@16.0.2/java.lang.Thread.getAllStackTraces(Thread.java:1647), app//org.bukkit.craftbukkit.v1_17_R1.CraftCrashReport.get(CraftCrashReport.java:33), app//org.bukkit.craftbukkit.v1_17_R1.CraftCrashReport.get(CraftCrashReport.java:1), app//net.minecraft.SystemReport.a(SourceFile:65), app//net.minecraft.CrashReport.<init>(CrashReport.java:35), app//net.minecraft.server.dedicated.ThreadWatchdog.run(SourceFile:63), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Reference Handler: [java.base@16.0.2/java.lang.ref.Reference.waitForReferencePendingList(Native Method), java.base@16.0.2/java.lang.ref.Reference.processPendingReferences(Reference.java:243), java.base@16.0.2/java.lang.ref.Reference$ReferenceHandler.run(Reference.java:215)], RUNNABLE Netty Epoll Server IO #2: [app//io.netty.channel.epoll.Native.epollWait0(Native Method), app//io.netty.channel.epoll.Native.epollWait(Native.java:114), app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Netty Epoll Server IO #3: [app//io.netty.channel.epoll.Native.epollWait0(Native Method), app//io.netty.channel.epoll.Native.epollWait(Native.java:114), app//io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:239), app//io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:256), app//io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884), java.base@16.0.2/java.lang.Thread.run(Thread.java:831)], RUNNABLE Worker-Bootstrap-1: [app//com.mojang.datafixers.functions.PointFreeRule$SortInj.doRewrite(PointFreeRule.java:290), app//com.mojang.datafixers.functions.PointFreeRule$CompRewrite.rewrite(PointFreeRule.java:180), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:567), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Apply.lambda$one$5(Apply.java:46), app//com.mojang.datafixers.functions.Apply$$Lambda$1804/0x00000008010ee8f8.get(Unknown Source), java.base@16.0.2/java.util.Optional.orElseGet(Optional.java:364), app//com.mojang.datafixers.functions.Apply.one(Apply.java:46), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.lambda$one$4(Comp.java:44), app//com.mojang.datafixers.functions.Comp$$Lambda$1853/0x00000008010f6b48.get(Unknown Source), java.base@16.0.2/java.util.Optional.orElseGet(Optional.java:364), app//com.mojang.datafixers.functions.Comp.one(Comp.java:44), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.Comp.one(Comp.java:43), app//com.mojang.datafixers.functions.PointFreeRule$One.rewrite(PointFreeRule.java:651), app//com.mojang.datafixers.functions.PointFreeRule$OrElse.rewrite(PointFreeRule.java:571), app//com.mojang.datafixers.functions.PointFreeRule$Many.lambda$rewrite$1(PointFreeRule.java:683), app//com.mojang.datafixers.functions.PointFreeRule$Many$$Lambda$1694/0x00000008010ce948.apply(Unknown Source), java.base@16.0.2/java.util.Optional.flatMap(Optional.java:289), app//com.mojang.datafixers.functions.PointFreeRule$Many.rewrite(PointFreeRule.java:683), app//com.mojang.datafixers.functions.PointFreeRule$Seq.lambda$rewrite$0(PointFreeRule.java:525), app//com.mojang.datafixers.functions.PointFreeRule$Seq$$Lambda$1693/0x00000008010ce700.apply(Unknown Source), java.base@16.0.2/java.util.Optional.flatMap(Optional.java:289), app//com.mojang.datafixers.functions.PointFreeRule$Seq.rewrite(PointFreeRule.java:525), app//com.mojang.datafixers.View.rewrite(View.java:77), app//com.mojang.datafixers.types.Type.lambda$rewrite$12(Type.java:190), app//com.mojang.datafixers.types.Type$$Lambda$1692/0x00000008010ce000.apply(Unknown Source), java.base@16.0.2/java.util.Optional.flatMap(Optional.java:289), app//com.mojang.datafixers.types.Type.rewrite(Type.java:190), app//com.mojang.datafixers.DataFixerBuilder.lambda$build$1(DataFixerBuilder.java:73), app//com.mojang.datafixers.DataFixerBuilder$$Lambda$1296/0x0000000800faa5a0.run(Unknown Source), java.base@16.0.2/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1800), java.base@16.0.2/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1792), java.base@16.0.2/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295), java.base@16.0.2/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016), java.base@16.0.2/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665), java.base@16.0.2/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598), java.base@16.0.2/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)],}
+   Recent tasks from 1014-1044{}
+   Force Loaded Chunks: { world: {}, world_nether: {}, world_the_end: {},}
+	Player Count: 1 / 10; [EntityPlayer['crisws'/206, l='ServerLevel[world]', x=99845.34, y=126.14, z=99943.27](crisws at 99845.33886662916,126.13724684335966,99943.26566012567)]
+	Data Packs: vanilla, file/bukkit
+	Is Modded: Definitely; Server brand changed to 'CraftBukkit'
+	Type: Dedicated Server (map_server.txt)
