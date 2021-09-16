@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.100.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631767647704
+  login: 1631760429149
+money: '0'
+last-account-name: Asunder
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -62.15077459662547
+  y: 75.0
+  z: -936.8853740367846
+  yaw: -56.251373291015625
+  pitch: -14.25000286102295

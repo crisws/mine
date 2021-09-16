@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.100.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631766094808
+  login: 1631760421114
+money: '0'
+last-account-name: LaTrusaIntrusa
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -77.92352913592478
+  y: 75.0
+  z: -937.879682810233
+  yaw: 18.212860107421875
+  pitch: 36.81245040893555

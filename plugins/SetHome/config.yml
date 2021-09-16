@@ -18,4 +18,10 @@ players:
         y: 75.0
         z: -924.8301601509221
         world: world
+    5ec946e5-0d24-307f-a62b-7ec9e10073c0:
+      home:
+        x: -1459.7911178587174
+        y: 64.0
+        z: 8411.43015277224
+        world: world
 log-items: true
