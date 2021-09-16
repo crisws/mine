@@ -374,3 +374,34 @@ Player LaTrusaIntrusa teleported to home casa. Location: Location{world=CraftWor
 Player Asunder teleported to home home. Location: Location{world=CraftWorld{name=world},x=-62.693034490378366,y=75.0,z=-924.8301601509221,pitch=0.0,yaw=0.0}
 Server stopping...
 [16-09-2021 02:37:32] Plugin stopped.
+[16-09-2021 05:32:57] Server starting.
+Copying defaults from config.yml...
+Saving config.yml...
+[16-09-2021 05:32:57] Succesfully loaded config.yml.
+Loaded commands.
+Loaded plugin SetHome v1.2 version 1.2.
+SetHome v1.2's native version is 1.16 and is running on server version 3241-Spigot-6c1c1b2-1492826 (MC: 1.17.1).
+WARNING. Plugin is running on a different version. Some features may not work.
+Bukkit version: 1.17.1-R0.1-SNAPSHOT
+Registered listeners.
+[16-09-2021 05:32:57] Succesfully started SetHome v1.21.2
+==================================
+config test: null
+canSetHome: true
+Player is attempting to set a home. Checking whether the home exists...
+Does the config contain the same name as what the player submitted: true
+Player set a home.
+Player UUID: cc688658-e7e5-386c-b097-71e009f22df2
+Home name: casa
+X: 3175.759040686955
+Y: 65.0
+Z: 3281.393647467852
+world: world
+[16-09-2021 05:33:24] Successfully was able to save home to config.
+==================================
+config test: MemorySection[path='players.homes.cc688658-e7e5-386c-b097-71e009f22df2', root='YamlConfiguration']
+i: 2
+Player doesn't have permission homes.2
+canSetHome: false
+Server stopping...
+[16-09-2021 05:32:57] Plugin stopped.

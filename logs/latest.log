@@ -1,329 +1,287 @@
-[02:37:26] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:37:27] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[02:37:28] [Worker-Main-2/INFO]: Loaded 7 recipes
-[02:37:31] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[02:37:31] [Server thread/INFO]: Loading properties
-[02:37:31] [Server thread/INFO]: Default game type: SURVIVAL
-[02:37:31] [Server thread/INFO]: Generating keypair
-[02:37:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:37:31] [Server thread/INFO]: Using epoll channel type
-[02:37:32] [Server thread/INFO]: This server is running CraftBukkit version 3232-Bukkit-cbd747a (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
-[02:37:32] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[02:37:39] [Server thread/WARN]: Legacy plugin TPA v2.2.2 does not specify an api-version.
-[02:37:39] [Server thread/WARN]: Legacy plugin Take-Me-Back v2.0 does not specify an api-version.
-[02:37:39] [Server thread/WARN]: Legacy plugin LoginSecurity v3.0.2 does not specify an api-version.
-[02:37:39] [Server thread/INFO]: [SetHome] Loading SetHome v1.2
-[02:37:39] [Server thread/INFO]: [TPA] Loading TPA v2.2.2
-[02:37:39] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[02:37:39] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0
-[02:37:39] [Server thread/INFO]: [Take-Me-Back] Loading Take-Me-Back v2.0
-[02:37:39] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.2
-[02:37:39] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.19.0
-[02:37:39] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[02:37:39] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.0 which is not a depend, softdepend or loadbefore of this plugin.
-[02:37:39] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[02:37:39] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[02:37:39] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[02:37:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:37:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:37:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:37:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:37:39] [Server thread/INFO]: Preparing level "world"
-[02:37:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:37:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:42] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[02:37:42] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[02:37:43] [Worker-Main-2/INFO]: Preparing spawn area: 7%
-[02:37:43] [Worker-Main-2/INFO]: Preparing spawn area: 21%
-[02:37:44] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[02:37:45] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[02:37:45] [Worker-Main-2/INFO]: Preparing spawn area: 34%
-[02:37:45] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[02:37:46] [Worker-Main-2/INFO]: Preparing spawn area: 98%
-[02:37:46] [Server thread/INFO]: Time elapsed: 6828 ms
-[02:37:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:37:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:48] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:48] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:49] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[02:37:49] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:37:50] [Worker-Main-2/INFO]: Preparing spawn area: 27%
-[02:37:50] [Worker-Main-2/INFO]: Preparing spawn area: 40%
-[02:37:51] [Worker-Main-2/INFO]: Preparing spawn area: 58%
-[02:37:51] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[02:37:52] [Server thread/INFO]: Time elapsed: 5539 ms
-[02:37:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:37:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:52] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:37:54] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:54] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:54] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:55] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:55] [Worker-Main-2/INFO]: Preparing spawn area: 1%
-[02:37:56] [Worker-Main-2/INFO]: Preparing spawn area: 6%
-[02:37:56] [Worker-Main-2/INFO]: Preparing spawn area: 82%
-[02:37:57] [Worker-Main-2/INFO]: Preparing spawn area: 86%
-[02:37:57] [Server thread/INFO]: Time elapsed: 5503 ms
-[02:37:57] [Server thread/INFO]: [SetHome] Enabling SetHome v1.2
-[02:37:57] [Server thread/INFO]: [SetHome] Successfully loaded commands.
-[02:37:57] [Server thread/INFO]: [SetHome] Plugin SetHome v1.2 version 1.2 loaded.
-[02:37:57] [Server thread/INFO]: [SetHome] SetHome v1.2's native version is 1.16 and is running on server version 3232-Bukkit-cbd747a (MC: 1.17.1).
-[02:37:57] [Server thread/INFO]: [SetHome] WARNING. Plugin is running on a different version. Some features may not work.
-[02:37:57] [Server thread/INFO]: [SetHome] Bukkit version: 1.17.1-R0.1-SNAPSHOT
-[02:37:57] [Server thread/INFO]: [SetHome] Registered listeners.
-[02:37:57] [Server thread/INFO]: [TPA] Enabling TPA v2.2.2
-[02:37:57] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0
-[02:37:57] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
-[02:37:58] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
-[02:37:58] [Server thread/INFO]: No kits found to migrate.
-[02:37:58] [Server thread/INFO]: Loaded 36837 items from items.json.
-[02:37:58] [Server thread/INFO]: Using locale en
-[02:37:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[02:37:58] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[02:37:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[02:37:58] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[02:37:58] [Server thread/INFO]: [Take-Me-Back] Enabling Take-Me-Back v2.0
-[02:37:58] [Server thread/INFO]: [Take-Me-Back] Take-Me-Back successfully loaded. Perms = false
-[02:37:58] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.2
-[02:37:58] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[02:37:58] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[02:37:59] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[02:37:59] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[02:37:59] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[02:37:59] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.19.0
-[02:37:59] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
-[02:37:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:38:00] [Server thread/INFO]: Done (20.707s)! For help, type "help"
-[02:38:00] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[02:38:00] [Craft Scheduler Thread - 1/INFO]: [Essentials] §6Fetching version information...
-[02:38:00] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
-[02:38:00] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
-[02:38:04] [Server thread/INFO]: crisws[/187.149.130.182:50518] logged in with entity id 275 at ([world]-269.34456966884625, 79.08852486298984, -233.28970996178816)
-[02:38:04] [Server thread/INFO]: se jalo alguien mas al server, rifado [0;31;22mcrisws[m[m
-[02:38:16] [Server thread/INFO]: crisws issued server command: /spawn
-[02:38:25] [Server thread/INFO]: crisws issued server command: /setspawn
-[02:38:27] [Server thread/INFO]: crisws issued server command: /spawn
-[02:39:24] [Server thread/INFO]: crisws issued server command: /tp crisws 3333 80 3333
-[02:39:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
-[02:42:26] [Server thread/INFO]: crisws issued server command: /fill 3191 64 3284
-[02:42:32] [Server thread/INFO]: crisws issued server command: /fill 3191 64 3284 3160 64 3250
-[02:42:55] [Server thread/INFO]: crisws issued server command: /fill 3191 64 3284 3160 64 3250 minecraft:quartz_block
-[02:42:55] [Server thread/INFO]: [crisws: Successfully filled 1118 blocks]
-[02:44:43] [Server thread/INFO]: crisws issued server command: /fill 3191 64 3284 3160 64 3250 minecraft:air
-[02:44:43] [Server thread/INFO]: [crisws: Successfully filled 1120 blocks]
-[02:46:17] [Server thread/INFO]: crisws issued server command: /fill 3192 64 3259
-[02:46:25] [Server thread/INFO]: crisws issued server command: /fill 3192 64 3259 3162 64 3289
-[02:46:33] [Server thread/INFO]: crisws issued server command: /fill 3192 64 3259 3162 64 3289 minecraft:quartz_block
-[02:46:33] [Server thread/INFO]: [crisws: Successfully filled 920 blocks]
-[02:47:00] [Server thread/INFO]: LaTrusaIntrusa[/177.228.100.117:2973] logged in with entity id 3704 at ([world]-66.53921629979963, 67.0, -925.9282540960222)
-[02:47:01] [Server thread/INFO]: se jalo alguien mas al server, rifado LaTrusaIntrusa[m
-[02:47:09] [Server thread/INFO]: Asunder[/177.228.100.117:44095] logged in with entity id 4032 at ([world]-333.76614462532035, 66.0, -282.3675105895107)
-[02:47:09] [Server thread/INFO]: se jalo alguien mas al server, rifado Asunder[m
-[02:47:16] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> listo?[m
-[02:47:18] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> si[m
-[02:48:44] [Server thread/INFO]: crisws issued server command: /fill 3163 64 3288
-[02:49:01] [Server thread/INFO]: crisws issued server command: /fill 3163 64 3288 3169 64 3282 minecraft:grass
-[02:49:01] [Server thread/INFO]: [crisws: Successfully filled 49 blocks]
-[02:49:17] [Server thread/INFO]: crisws issued server command: /fill 3163 64 3288 3169 64 3282 minecraft:grass_block
-[02:49:17] [Server thread/INFO]: [crisws: Successfully filled 49 blocks]
-[02:49:32] [Server thread/INFO]: crisws issued server command: /fill 3163 64 3288 3169 64 3282 minecraft:quartz_block
-[02:49:32] [Server thread/INFO]: [crisws: Successfully filled 49 blocks]
-[02:49:54] [Server thread/INFO]: crisws issued server command: /fill 3162 73 3289
-[02:50:06] [Server thread/INFO]: crisws issued server command: /fill 3162 73 3289 3192 64 3289 minecraft:quartz_block
-[02:50:06] [Server thread/INFO]: [crisws: Successfully filled 270 blocks]
-[02:50:11] [Server thread/INFO]: crisws issued server command: /fill 3192 73 3289
-[02:50:24] [Server thread/INFO]: crisws issued server command: /fill 3192 73 3289 3192 64 3259 minecraft:quartz_block
-[02:50:24] [Server thread/INFO]: [crisws: Successfully filled 270 blocks]
-[02:50:35] [Server thread/INFO]: crisws issued server command: /fill 3192 73 3259
-[02:50:50] [Server thread/INFO]: crisws issued server command: /fill 3192 73 3259 3162 64 3259 minecraft:quartz_block
-[02:50:50] [Server thread/INFO]: [crisws: Successfully filled 270 blocks]
-[02:50:58] [Server thread/INFO]: crisws issued server command: /fill 3162 73 3259
-[02:51:11] [Server thread/INFO]: crisws issued server command: /fill 3162 73 3259 3162 64 3289 minecraft:quartz_block
-[02:51:11] [Server thread/INFO]: [crisws: Successfully filled 261 blocks]
-[02:51:20] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> wassa, crees meterle cosas para craftear mas? xd[m
-[02:51:28] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> <.<[m
-[02:51:34] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> te amoo we ya sabes uwu[m
-[02:51:45] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> por que quieres mas cosas pa craftear[m
-[02:51:53] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> no es suficiente con lo que el juego da ? xD[m
-[02:52:11] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> si fuera suficiente con lo que el juego dá no hubieran mods uwu[m
-[02:52:15] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> XD[m
-[02:52:26] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> si quiera ya crafteaste todo lo posible ? xD[m
-[02:52:36] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> ni idea[m
-[02:53:13] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpa Asunder
-[02:53:19] [Server thread/INFO]: Asunder issued server command: /tpaccept
-[02:53:23] [Server thread/INFO]: Asunder issued server command: /home home
-[02:54:38] [Server thread/INFO]: Asunder issued server command: /tpa LaTrusaIntrusa
-[02:54:44] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> si lo pienso hacer pero primero hare lo que te dije[m
-[02:54:47] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpaccept
-[02:56:23] [Server thread/INFO]: LaTrusaIntrusa has made the advancement [What a Deal!]
-[02:58:20] [Server thread/INFO]: LaTrusaIntrusa issued server command: /home casa
-[02:59:02] [Server thread/INFO]: crisws issued server command: /fill 3164 63 3286
-[02:59:09] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpaccept
-[02:59:17] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpa Asunder
-[02:59:21] [Server thread/INFO]: crisws issued server command: /fill 3164 63 3286 3171 60 3280 minecraft:air
-[02:59:21] [Server thread/INFO]: [crisws: Successfully filled 161 blocks]
-[02:59:33] [Server thread/INFO]: Asunder issued server command: /tpaccept
-[03:00:16] [Server thread/INFO]: crisws issued server command: /fill 3163 63 3286
-[03:00:25] [Server thread/INFO]: crisws issued server command: /fill 3163 63 3286 3163 60 3280 minecraft:quartz_block
-[03:00:25] [Server thread/INFO]: [crisws: Successfully filled 28 blocks]
-[03:02:25] [Server thread/INFO]: Asunder issued server command: /home home
-[03:03:06] [Server thread/INFO]: Asunder issued server command: /tpa LaTrusaIntrusa
-[03:03:12] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpaccept
-[03:07:48] [Server thread/INFO]: crisws issued server command: /fill 3168 60 3261
-[03:08:02] [Server thread/INFO]: crisws issued server command: /fill 3168 60 3261 3164 63 3287 minecraft:air
-[03:08:02] [Server thread/INFO]: [crisws: Successfully filled 333 blocks]
-[03:08:24] [Server thread/INFO]: crisws issued server command: /fill 3163 63 3279
-[03:08:32] [Server thread/INFO]: crisws issued server command: /fill 3163 63 3279 3163 60 3261 minecraft:quartz_block
-[03:08:32] [Server thread/INFO]: [crisws: Successfully filled 76 blocks]
-[03:09:02] [Server thread/INFO]: crisws issued server command: /fill 3169 63 3264
-[03:09:13] [Server thread/INFO]: crisws issued server command: /fill 3169 63 3264 3171 60 3284 minecraft:air
-[03:09:13] [Server thread/INFO]: [crisws: Successfully filled 193 blocks]
-[03:09:34] [Server thread/INFO]: crisws issued server command: /fill 3164 59 3261
-[03:09:40] [Server thread/INFO]: crisws issued server command: /fill 3164 59 3261 3171 59 3284
-[03:09:50] [Server thread/INFO]: crisws issued server command: /fill 3164 59 3261 3171 59 3284 minecraft:quartz_bricks
-[03:09:50] [Server thread/INFO]: [crisws: Successfully filled 154 blocks]
-[03:10:50] [Server thread/INFO]: crisws issued server command: /fill 3172 60 3284
-[03:11:00] [Server thread/INFO]: crisws issued server command: /fill 3172 60 3284 3172 63 3264 minecraft:quartz_block
-[03:11:00] [Server thread/INFO]: [crisws: Successfully filled 79 blocks]
-[03:17:01] [Server thread/INFO]: crisws has made the advancement [Acquire Hardware]
-[03:23:15] [Server thread/INFO]: LaTrusaIntrusa has made the advancement [Who is Cutting Onions?]
-[03:30:04] [Server thread/INFO]: crisws issued server command: /balance
-[03:37:57] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpa crisws
-[03:38:32] [Server thread/INFO]: crisws issued server command: /tpaccept
-[03:38:43] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> :V[m
-[03:38:58] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> te iba a decir, como sacastee tanto cuarzo xd, pero me imagino que creativo jajaja[m
-[03:39:04] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> obvio[m
-[03:39:10] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> este sera el spawn y la tienda del srv[m
-[03:39:11] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> se ve chido[m
-[03:39:25] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> aqui la raza podra venir a vender y comprar :v[m
-[03:39:33] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> y cual será la moneda del juego?[m
-[03:39:39] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> ya existe[m
-[03:39:43] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> solo pon diagonal balance[m
-[03:39:45] [Server thread/INFO]: crisws issued server command: /balance
-[03:39:50] [Server thread/INFO]: Asunder issued server command: /balance
-[03:39:50] [Server thread/INFO]: §cAsunder §4was denied access to command.
-[03:39:57] [Server thread/INFO]: LaTrusaIntrusa issued server command: /balance
-[03:39:57] [Server thread/INFO]: §cLaTrusaIntrusa §4was denied access to command.
-[03:40:02] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> sin acceso[m
-[03:40:06] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> neta ?[m
-[03:40:10] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> sep[m
-[03:40:11] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> haa bueno tengo que poner eso aun[m
-[03:40:19] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> pero esa sera la idea[m
-[03:40:23] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> cuando quede listo :v[m
-[03:40:34] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> intenta vender[m
-[03:40:36] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> esa esmeralda porfa[m
-[03:40:41] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> cuanto trabajo buen hombre[m
-[03:40:44] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> toma una papa[m
-[03:41:05] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> sobre el cartel[m
-[03:41:06] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> no entiendo[m
-[03:41:08] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> dale clic derecho[m
-[03:41:14] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> al cartel[m
-[03:41:24] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> que te dice ?[m
-[03:41:27] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> nada[m
-[03:41:47] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> no te jala el clic derecho ?[m
-[03:41:52] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> nop, no hace nada[m
-[03:42:00] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> chale que raro[m
-[03:42:05] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> ayer cale con alguien mas y si jalo[m
-[03:42:21] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> F no soy el elegido[m
-[03:42:25] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> nop[m
-[03:42:34] [Server thread/INFO]: crisws2[/187.149.130.182:49199] logged in with entity id 35543 at ([world]-226.75490644405502, 64.0, -241.32661482397728)
-[03:42:34] [Server thread/INFO]: se jalo alguien mas al server, rifado crisws2[m
-[03:42:48] [Server thread/INFO]: crisws issued server command: /tp crisws2 crisws
-[03:43:04] [Server thread/INFO]: crisws2 issued server command: /balance
-[03:43:04] [Server thread/INFO]: §ccrisws2 §4was denied access to command.
-[03:47:29] [Server thread/INFO]: Asunder issued server command: /home home
-[03:47:51] [Server thread/INFO]: crisws issued server command: /op crisws2
-[03:47:51] [Server thread/INFO]: [crisws: Made crisws2 a server operator]
-[03:48:13] [Server thread/INFO]: crisws issued server command: /op crisws2
-[03:48:36] [Server thread/INFO]: Asunder issued server command: /tpa LaTrusaIntrusa
-[03:48:41] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpaccept
-[03:49:06] [Server thread/INFO]: crisws issued server command: /otp crisws2
-[03:49:11] [Server thread/INFO]: crisws issued server command: /back
-[03:49:20] [Server thread/INFO]: crisws issued server command: /tp crisws crisws2
-[03:50:32] [Server thread/INFO]: crisws2 issued server command: /balance
-[03:50:56] [Server thread/INFO]: crisws2 lost connection: Disconnected
-[03:50:56] [Server thread/INFO]: se nos fue crisws2, GG
-[03:50:58] [Server thread/INFO]: crisws2[/187.149.130.182:53080] logged in with entity id 40282 at ([world]3166.1506392698047, 60.0, 3282.114988749886)
-[03:50:58] [Server thread/INFO]: se jalo alguien mas al server, rifado [0;31;22mcrisws2[m[m
-[03:51:10] [Server thread/INFO]: crisws2 lost connection: Disconnected
-[03:51:10] [Server thread/INFO]: se nos fue crisws2, GG
-[03:51:38] [Server thread/INFO]: LaTrusaIntrusa issued server command: /home casa
-[03:51:40] [Server thread/INFO]: crisws3[/187.149.130.182:54377] logged in with entity id 40598 at ([world]-236.5, 64.0, -144.5)
-[03:51:41] [Server thread/INFO]: se jalo alguien mas al server, rifado crisws3[m
-[03:51:41] [Server thread/INFO]: crisws3 has made the advancement [Getting an Upgrade]
-[03:52:00] [Server thread/INFO]: crisws issued server command: /tp crisws3 crisws
-[03:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
-[03:52:14] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpaccept
-[03:52:20] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpa Asunder
-[03:52:24] [Server thread/INFO]: Asunder has made the advancement [Best Friends Forever]
-[03:52:45] [Server thread/INFO]: Asunder issued server command: /tpaccept
-[03:52:48] [Server thread/INFO]: crisws issued server command: /setspawn
-[03:52:52] [Server thread/INFO]: crisws3 issued server command: /spawn
-[03:52:52] [Server thread/INFO]: §ccrisws3 §4was denied access to command.
-[03:53:11] [Server thread/INFO]: Asunder issued server command: /home home
-[03:53:13] [Server thread/WARN]: LaTrusaIntrusa moved too quickly! 10.855129202032003,2.1661092609382138,7.851328721662867
-[03:57:59] [Server thread/INFO]: crisws issued server command: /essentials reload
-[03:57:59] [Server thread/INFO]: Loaded 36840 items from items.json.
-[03:57:59] [Server thread/INFO]: Using locale en
-[03:57:59] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[03:58:04] [Server thread/INFO]: crisws3 issued server command: /balance
-[03:58:04] [Server thread/INFO]: §ccrisws3 §4was denied access to command.
-[03:58:05] [Server thread/INFO]: crisws3 lost connection: Disconnected
-[03:58:05] [Server thread/INFO]: se nos fue crisws3, GG
-[03:58:07] [Server thread/INFO]: crisws3[/187.149.130.182:55960] logged in with entity id 43660 at ([world]3166.089420850531, 60.0, 3281.5979226079276)
-[03:58:08] [Server thread/INFO]: se jalo alguien mas al server, rifado crisws3[m
-[03:58:14] [Server thread/INFO]: crisws3 issued server command: /balance
-[03:58:14] [Server thread/INFO]: §ccrisws3 §4was denied access to command.
-[04:04:05] [Server thread/INFO]: crisws3 issued server command: /balance
-[04:04:05] [Server thread/INFO]: §ccrisws3 §4was denied access to command.
-[04:08:47] [Server thread/INFO]: LaTrusaIntrusa issued server command: /home casa
-[04:12:18] [Server thread/INFO]: LaTrusaIntrusa issued server command: /tpa Asunder
-[04:12:26] [Server thread/INFO]: Asunder issued server command: /tpaccept
-[04:16:12] [Netty Epoll Server IO #2/INFO]: <crisws3> cuando se desconecten porfa por seguridad dejen todas sus cosas en un cofre[m
-[04:16:15] [Server thread/INFO]: crisws3 lost connection: Disconnected
-[04:16:15] [Server thread/INFO]: se nos fue crisws3, GG
-[04:16:38] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> sale ?[m
-[04:16:44] [Netty Epoll Server IO #2/INFO]: <Asunder> va[m
-[04:16:59] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> hay le dices a este wey xD[m
-[04:17:03] [Netty Epoll Server IO #2/INFO]: <LaTrusaIntrusa> no alv[m
-[04:17:16] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> voy a meter algo de permisos que puede ser que pierdas tus cosas[m
-[04:17:31] [Netty Epoll Server IO #3/INFO]: <[0;31;22mcrisws[m> alrato vuelvo[m
-[04:17:40] [Server thread/INFO]: crisws lost connection: Disconnected
-[04:17:40] [Server thread/INFO]: se nos fue crisws, GG
-[04:18:52] [Server thread/INFO]: LaTrusaIntrusa issued server command: /home casa
-[04:21:34] [Server thread/INFO]: LaTrusaIntrusa lost connection: Disconnected
-[04:21:34] [Server thread/INFO]: se nos fue LaTrusaIntrusa, GG
-[04:47:03] [Server thread/INFO]: Asunder issued server command: /home home
-[04:47:27] [Server thread/INFO]: Asunder lost connection: Disconnected
-[04:47:27] [Server thread/INFO]: se nos fue Asunder, GG
-[05:00:59] [Server thread/INFO]: Stopping the server
-[05:00:59] [Server thread/INFO]: Stopping server
-[05:00:59] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.19.0
-[05:00:59] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.0.2
-[05:00:59] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[05:00:59] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[05:00:59] [Server thread/INFO]: [Take-Me-Back] Disabling Take-Me-Back v2.0
-[05:00:59] [Server thread/INFO]: [Take-Me-Back] Take-Me-Back shut down
-[05:00:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.0
-[05:00:59] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[05:00:59] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[05:00:59] [Server thread/INFO]: [TPA] Disabling TPA v2.2.2
-[05:00:59] [Server thread/INFO]: [SetHome] Disabling SetHome v1.2
-[05:00:59] [Server thread/INFO]: [SetHome] Stopping plugin 'SetHome'...
-[05:00:59] [Server thread/INFO]: [SetHome] Plugin stopped. Goodbye!
-[05:00:59] [Server thread/INFO]: Saving players
-[05:00:59] [Server thread/INFO]: Saving worlds
-[05:00:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:01:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:01:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:01:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:32:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:32:51] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[05:32:53] [Worker-Main-2/INFO]: Loaded 7 recipes
+[05:32:55] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[05:32:55] [Server thread/INFO]: Loading properties
+[05:32:55] [Server thread/INFO]: This server is running CraftBukkit version 3241-Spigot-6c1c1b2-1492826 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT)
+[05:32:55] [Server thread/INFO]: Debug logging is disabled
+[05:32:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[05:32:55] [Server thread/INFO]: Using 4 threads for Netty based IO
+[05:32:55] [Server thread/INFO]: Default game type: SURVIVAL
+[05:32:55] [Server thread/INFO]: Generating keypair
+[05:32:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:32:56] [Server thread/INFO]: Using epoll channel type
+[05:32:57] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[05:33:03] [Server thread/WARN]: Legacy plugin TPA v2.2.2 does not specify an api-version.
+[05:33:04] [Server thread/WARN]: Legacy plugin Take-Me-Back v2.0 does not specify an api-version.
+[05:33:04] [Server thread/WARN]: Legacy plugin LoginSecurity v3.0.2 does not specify an api-version.
+[05:33:04] [Server thread/INFO]: [SetHome] Loading SetHome v1.2
+[05:33:04] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.67
+[05:33:04] [Server thread/INFO]: [TPA] Loading TPA v2.2.2
+[05:33:04] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[05:33:04] [Server thread/INFO]: [Essentials] Loading Essentials v2.19.0
+[05:33:04] [Server thread/INFO]: [Take-Me-Back] Loading Take-Me-Back v2.0
+[05:33:04] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.0.2
+[05:33:04] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.19.0
+[05:33:04] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.67
+[05:33:04] [Server thread/INFO]: [0;36;1m       [0;36;22m __    [m
+[05:33:04] [Server thread/INFO]: [0;36;1m  |    [0;36;22m|__)   [0;32;22mLuckPerms[m [0;36;1mv5.3.67[m
+[05:33:04] [Server thread/INFO]: [0;36;1m  |___ [0;36;22m|      [0;30;1mRunning on Bukkit - CraftBukkit[m
+[05:33:04] [Server thread/INFO]: [m
+[05:33:04] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[05:33:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[05:33:05] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[05:33:05] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[05:33:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1601ms)
+[05:33:06] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[05:33:06] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.19.0 which is not a depend, softdepend or loadbefore of this plugin.
+[05:33:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:33:06] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:33:06] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[05:33:06] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[05:33:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:33:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:33:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:33:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:33:06] [Server thread/INFO]: Preparing level "world"
+[05:33:06] [Server thread/INFO]: -------- World Settings For [world] --------
+[05:33:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:33:06] [Server thread/INFO]: Mob Spawn Range: 6
+[05:33:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[05:33:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:33:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[05:33:06] [Server thread/INFO]: Max TNT Explosions: 100
+[05:33:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:33:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:33:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:33:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:33:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:33:06] [Server thread/INFO]: View Distance: 12
+[05:33:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:33:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:33:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:33:06] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[05:33:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:33:06] [Server thread/INFO]: Mob Spawn Range: 6
+[05:33:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[05:33:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:33:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[05:33:06] [Server thread/INFO]: Max TNT Explosions: 100
+[05:33:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:33:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:33:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:33:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:33:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:33:06] [Server thread/INFO]: View Distance: 12
+[05:33:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:33:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:33:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:33:06] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[05:33:06] [Server thread/INFO]: Experience Merge Radius: 3.0
+[05:33:06] [Server thread/INFO]: Mob Spawn Range: 6
+[05:33:06] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Cane Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Melon Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Potato Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Vine Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[05:33:06] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[05:33:06] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[05:33:06] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[05:33:06] [Server thread/INFO]: Max TNT Explosions: 100
+[05:33:06] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[05:33:06] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[05:33:06] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[05:33:06] [Server thread/INFO]: Item Despawn Rate: 6000
+[05:33:06] [Server thread/INFO]: Item Merge Radius: 2.5
+[05:33:06] [Server thread/INFO]: View Distance: 12
+[05:33:06] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[05:33:06] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[05:33:06] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[05:33:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:07] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:08] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[05:33:10] [Worker-Main-2/INFO]: Preparing spawn area: 12%
+[05:33:10] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[05:33:11] [Worker-Main-2/INFO]: Preparing spawn area: 44%
+[05:33:11] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[05:33:12] [Worker-Main-2/INFO]: Preparing spawn area: 70%
+[05:33:12] [Worker-Main-2/INFO]: Preparing spawn area: 86%
+[05:33:13] [Server thread/INFO]: Time elapsed: 6546 ms
+[05:33:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[05:33:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:15] [Worker-Main-2/INFO]: Preparing spawn area: 3%
+[05:33:16] [Worker-Main-2/INFO]: Preparing spawn area: 11%
+[05:33:16] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[05:33:17] [Worker-Main-2/INFO]: Preparing spawn area: 31%
+[05:33:17] [Worker-Main-2/INFO]: Preparing spawn area: 32%
+[05:33:17] [Worker-Main-2/INFO]: Preparing spawn area: 54%
+[05:33:18] [Worker-Main-2/INFO]: Preparing spawn area: 72%
+[05:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 93%
+[05:33:19] [Server thread/INFO]: Time elapsed: 6021 ms
+[05:33:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[05:33:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:33:21] [Worker-Main-2/INFO]: Preparing spawn area: 49%
+[05:33:22] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:33:22] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:33:23] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:33:23] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:33:24] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[05:33:24] [Server thread/INFO]: Time elapsed: 4531 ms
+[05:33:24] [Server thread/INFO]: [SetHome] Enabling SetHome v1.2
+[05:33:24] [Server thread/INFO]: [SetHome] Successfully loaded commands.
+[05:33:24] [Server thread/INFO]: [SetHome] Plugin SetHome v1.2 version 1.2 loaded.
+[05:33:24] [Server thread/INFO]: [SetHome] SetHome v1.2's native version is 1.16 and is running on server version 3241-Spigot-6c1c1b2-1492826 (MC: 1.17.1).
+[05:33:24] [Server thread/INFO]: [SetHome] WARNING. Plugin is running on a different version. Some features may not work.
+[05:33:24] [Server thread/INFO]: [SetHome] Bukkit version: 1.17.1-R0.1-SNAPSHOT
+[05:33:24] [Server thread/INFO]: [SetHome] Registered listeners.
+[05:33:24] [Server thread/INFO]: [TPA] Enabling TPA v2.2.2
+[05:33:24] [Server thread/INFO]: [Essentials] Enabling Essentials v2.19.0
+[05:33:24] [Server thread/INFO]: [Essentials] You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[05:33:24] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[05:33:24] [Server thread/INFO]: No kits found to migrate.
+[05:33:25] [Server thread/INFO]: Loaded 36837 items from items.json.
+[05:33:25] [Server thread/INFO]: Using locale en
+[05:33:25] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[05:33:25] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[05:33:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[05:33:25] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[05:33:25] [Server thread/INFO]: [Take-Me-Back] Enabling Take-Me-Back v2.0
+[05:33:25] [Server thread/INFO]: [Take-Me-Back] Take-Me-Back successfully loaded. Perms = false
+[05:33:25] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.0.2
+[05:33:25] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[05:33:25] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[05:33:25] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[05:33:25] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[05:33:25] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[05:33:25] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.19.0
+[05:33:25] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[05:33:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[05:33:26] [Server thread/INFO]: Done (20.451s)! For help, type "help"
+[05:33:26] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:33:26] [Craft Scheduler Thread - 1/INFO]: [Essentials] §6Fetching version information...
+[05:33:26] [Craft Scheduler Thread - 2/INFO]: [Vault] Checking for Updates ... 
+[05:33:26] [Craft Scheduler Thread - 2/INFO]: [Vault] No new version available
+[05:33:29] [User Authenticator #1/INFO]: UUID of player crisws3 is cc688658-e7e5-386c-b097-71e009f22df2
+[05:33:29] [Server thread/INFO]: crisws3[/187.149.130.182:62923] logged in with entity id 144 at ([world]3168.4740775627083, 60.0, 3279.1672434608677)
+[05:33:32] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 26.582932ms. Summary: Getting prefix for crisws3
+[05:33:32] [Server thread/INFO]: se jalo alguien mas al server, rifado crisws3[m
+[05:33:40] [Server thread/INFO]: crisws3 issued server command: /balance
+[05:33:40] [Server thread/INFO]: §ccrisws3 §4was denied access to command.
+[05:33:42] [Server thread/INFO]: crisws3 lost connection: Disconnected
+[05:33:42] [Server thread/INFO]: se nos fue crisws3, GG
+[05:34:12] [User Authenticator #2/INFO]: UUID of player crisws is 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+[05:34:12] [Server thread/INFO]: crisws[/187.149.130.182:55075] logged in with entity id 440 at ([world]3165.503543650022, 61.45561066196695, 3282.752403485728)
+[05:34:14] [Server thread/INFO]: se jalo alguien mas al server, rifado [0;31;22mcrisws[m[m
+[05:35:56] [Server thread/INFO]: crisws issued server command: /balance
+[05:36:25] [User Authenticator #3/INFO]: UUID of player crisws3 is cc688658-e7e5-386c-b097-71e009f22df2
+[05:36:26] [Server thread/INFO]: crisws3[/187.149.130.182:51126] logged in with entity id 981 at ([world]3168.386506434471, 60.0, 3277.232558935617)
+[05:36:26] [Server thread/INFO]: se jalo alguien mas al server, rifado crisws3[m
+[05:38:35] [Server thread/INFO]: crisws issued server command: /lp
+[05:38:43] [Server thread/INFO]: crisws issued server command: /lp help
+[05:39:24] [Server thread/INFO]: crisws issued server command: /lp listgroups
+[05:40:28] [Server thread/INFO]: crisws issued server command: /lp editor
+[05:42:09] [Server thread/INFO]: crisws issued server command: /balancetop
+[05:43:29] [Server thread/INFO]: crisws issued server command: /time set day
+[05:44:22] [Server thread/INFO]: crisws issued server command: /lp applyedits NooE6vnNFM
+[05:44:23] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mcrisws[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mdefault[0;30;1m)[m
+[05:44:23] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor add essentials.spawn true[m
+[05:44:33] [Server thread/INFO]: crisws3 issued server command: /spawn
+[05:45:18] [Server thread/INFO]: crisws issued server command: /lp applyedits Ivr7YNWmsb
+[05:45:19] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mcrisws[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mdefault[0;30;1m)[m
+[05:45:19] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor add essentials.balance true[m
+[05:45:24] [Server thread/INFO]: crisws3 issued server command: /balance
+[05:45:38] [Server thread/INFO]: crisws3 has made the advancement [Monster Hunter]
+[05:46:50] [Server thread/INFO]: crisws issued server command: /lp applyedits KVjFdrkjWy
+[05:46:51] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mcrisws[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mdefault[0;30;1m)[m
+[05:46:51] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor add essentials.signs.use.buy true[m
+[05:46:51] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;30;1m([0;33;1mcrisws[0;30;1m)[m [0;30;1m[[0;32;1mG[0;30;1m][m [0;30;1m([0;36;1mdefault[0;30;1m)[m
+[05:46:51] [luckperms-command-executor/INFO]: [0;37;22m[[0;36;1m[21mL[0;36;22m[21mP[0;37;22m][m [0;36;22mLOG[m [0;36;22m[21m>[m [0;37;1mwebeditor add essentials.signs.use.sell true[m
+[05:46:59] [Server thread/INFO]: crisws3 issued server command: /balance
+[05:47:48] [Server thread/INFO]: crisws3 issued server command: /sethome casa
+[05:47:52] [Server thread/INFO]: crisws3 issued server command: /sethome pepe
+[05:48:36] [Server thread/INFO]: Stopping the server
+[05:48:36] [Server thread/INFO]: Stopping server
+[05:48:36] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.19.0
+[05:48:36] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.0.2
+[05:48:36] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[05:48:36] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[05:48:36] [Server thread/INFO]: [Take-Me-Back] Disabling Take-Me-Back v2.0
+[05:48:36] [Server thread/INFO]: [Take-Me-Back] Take-Me-Back shut down
+[05:48:36] [Server thread/INFO]: [Essentials] Disabling Essentials v2.19.0
+[05:48:36] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[05:48:36] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[05:48:36] [Server thread/INFO]: [TPA] Disabling TPA v2.2.2
+[05:48:36] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.67
+[05:48:36] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[05:48:36] [Server thread/INFO]: [LuckPerms] Closing storage...
+[05:48:36] [Server thread/INFO]: [LuckPerms] Goodbye!
+[05:48:36] [Server thread/INFO]: [SetHome] Disabling SetHome v1.2
+[05:48:36] [Server thread/INFO]: [SetHome] Stopping plugin 'SetHome'...
+[05:48:36] [Server thread/INFO]: [SetHome] Plugin stopped. Goodbye!
+[05:48:36] [Server thread/INFO]: Saving players
+[05:48:36] [Server thread/INFO]: crisws lost connection: Server closed
+[05:48:36] [Server thread/INFO]: crisws left the game
+[05:48:36] [Server thread/INFO]: crisws3 lost connection: Server closed
+[05:48:36] [Server thread/INFO]: crisws3 left the game
+[05:48:36] [Server thread/INFO]: Saving worlds
+[05:48:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -24,4 +24,10 @@ players:
         y: 64.0
         z: 8411.43015277224
         world: world
+    cc688658-e7e5-386c-b097-71e009f22df2:
+      casa:
+        x: 3175.759040686955
+        y: 65.0
+        z: 3281.393647467852
+        world: world
 log-items: true
