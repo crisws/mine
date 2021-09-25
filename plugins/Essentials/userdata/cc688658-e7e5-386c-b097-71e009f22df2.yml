@@ -11,28 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1631771073894
+  lastteleport: 1631924124986
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1631771316261
-  login: 1631770586077
-money: '6'
+  logout: 1631924143979
+  login: 1631924073411
+money: '38.0'
 last-account-name: crisws3
 lastlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 3169.2824748423823
-  y: 61.0
-  z: 3285.351435011934
-  yaw: -110.8906021118164
-  pitch: -7.770994186401367
+  x: 3108.0346538025783
+  y: 64.55321338701523
+  z: 3355.1543847119233
+  yaw: -163.09494018554688
+  pitch: 17.91739273071289
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 3175.9074743581596
-  y: 65.0
-  z: 3280.1089845897445
-  yaw: 134.64520263671875
-  pitch: 3.479356288909912
+  x: 3177.5
+  y: 66.0
+  z: 3274.5
+  yaw: 91.31409454345703
+  pitch: -13.320714950561523
+homes:
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 3173.588685844778
+    y: 65.0
+    z: 3284.8363255737327
+    yaw: -152.2860565185547
+    pitch: 7.3790202140808105

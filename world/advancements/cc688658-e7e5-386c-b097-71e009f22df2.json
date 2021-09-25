@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2021-09-16 21:59:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-09-16 03:52:13 +0000"
@@ -86,6 +92,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2021-09-16 05:45:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2021-09-16 21:59:28 +0000"
     },
     "done": true
   },

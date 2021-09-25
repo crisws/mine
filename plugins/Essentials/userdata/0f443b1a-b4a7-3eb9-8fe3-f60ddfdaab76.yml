@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 177.228.100.117
+ip-address: 177.228.103.213
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,53 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1632516410163
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1631767647704
-  login: 1631760429149
-money: '0'
+  logout: 1632516560199
+  login: 1632514422008
+money: '3468.78629999999901632'
 last-account-name: Asunder
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: -62.15077459662547
+  x: -62.84507931477926
   y: 75.0
-  z: -936.8853740367846
-  yaw: -56.251373291015625
-  pitch: -14.25000286102295
+  z: -936.3319692979929
+  yaw: 158.8050537109375
+  pitch: 23.54993438720703
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -3431.855543852665
+  y: 63.0
+  z: -696.0927180289892
+  yaw: 21.0498046875
+  pitch: 20.399646759033203
+homes:
+  end:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -1589.5
+    y: 36.0
+    z: -1354.5
+    yaw: -74.74807739257812
+    pitch: 30.299983978271484
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -65.57741797777828
+    y: 71.0
+    z: -903.2230660445139
+    yaw: 15.23321533203125
+    pitch: 21.749841690063477
+  aldea:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -295.00330481840035
+    y: 67.0
+    z: -315.2465247051566
+    yaw: 164.3894805908203
+    pitch: 33.901527404785156

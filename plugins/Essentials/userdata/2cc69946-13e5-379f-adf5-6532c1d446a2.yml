@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.149.130.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1631896457006
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1631896462443
+  login: 1631892955480
+money: '2690.4512499999999759'
+last-account-name: elwassa
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3175.6372789506327
+  y: 65.0
+  z: 3262.4456551615226
+  yaw: -124.8530502319336
+  pitch: 4.123827934265137
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3349.4936197034276
+  y: 63.0
+  z: 3488.499162782021
+  yaw: 64.89105224609375
+  pitch: 45.92961502075195
+homes:
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 3349.300000011921
+    y: 62.0
+    z: 3490.180791039001
+    yaw: -149.9091796875
+    pitch: -8.070362091064453
+  mina:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 3332.802239435628
+    y: 23.0
+    z: 3598.794614768526
+    yaw: 68.833740234375
+    pitch: 2.0345840454101562

@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 177.228.114.228
+ip-address: 177.228.100.27
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,53 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1632526898860
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1631750622996
-  login: 1631747964129
-money: '0'
+  logout: 1632527007247
+  login: 1632525003728
+money: '55523.73550000000108496'
 last-account-name: Dfoz
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: -1346.3581584713206
-  y: 63.0
-  z: 8463.717896585309
-  yaw: 167.099609375
-  pitch: -22.500032424926758
+  x: -1363.704917342772
+  y: 72.5
+  z: 8453.32352640862
+  yaw: -93.7501220703125
+  pitch: 34.79997634887695
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3186.8658850982874
+  y: 72.5
+  z: 3284.7362204447586
+  yaw: 92.663818359375
+  pitch: 28.979259490966797
+homes:
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -1348.4755982074842
+    y: 63.0
+    z: 8456.309198784289
+    yaw: 0.449432373046875
+    pitch: 7.0500054359436035
+  a:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -1352.3211970530822
+    y: 116.0
+    z: 8589.58445655975
+    yaw: -91.9642333984375
+    pitch: 11.399807929992676
+  moises:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -531.6794093018829
+    y: 80.0
+    z: -1589.6443950444088
+    yaw: -14.76476764678955
+    pitch: -1.0631312131881714

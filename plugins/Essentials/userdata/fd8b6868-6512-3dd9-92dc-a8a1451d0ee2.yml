@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 177.228.100.117
+ip-address: 177.228.103.213
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,53 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1632556802665
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1631766094808
-  login: 1631760421114
-money: '0'
+  logout: 1632556807151
+  login: 1632552357302
+money: '140.16615000000067963'
 last-account-name: LaTrusaIntrusa
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: -77.92352913592478
+  x: -76.65571751931063
   y: 75.0
-  z: -937.879682810233
-  yaw: 18.212860107421875
-  pitch: 36.81245040893555
+  z: -937.0602436332014
+  yaw: 131.2677459716797
+  pitch: 29.633697509765625
+homes:
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -74.62176382704062
+    y: 75.0
+    z: -937.5275434535631
+    yaw: 94.45553588867188
+    pitch: 18.53150749206543
+  mina:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -525.1325901026802
+    y: 86.0
+    z: -1568.890109452987
+    yaw: -81.66619110107422
+    pitch: 2.086867570877075
+  mina2:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -432.344136168896
+    y: 10.0
+    z: -1600.7721766730226
+    yaw: -70.41185760498047
+    pitch: 46.59426498413086
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -429.6135947009095
+  y: 10.0
+  z: -1590.762499988079
+  yaw: -93.17803955078125
+  pitch: 10.533171653747559

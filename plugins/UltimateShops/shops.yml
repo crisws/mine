@@ -1,0 +1,2414 @@
+# UltimateShops version 1.0
+# Author: Brandon (ThirtyVirus) Calabrese
+
+world,3164,60,3286:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COAL
+  buyPrice: 16
+  sellPrice: 4
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830182663
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3285:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: REDSTONE
+  buyPrice: 16
+  sellPrice: 8
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631896250693
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_INGOT
+  buyPrice: 32
+  sellPrice: 8
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632504966575
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3283:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COPPER_INGOT
+  buyPrice: 16
+  sellPrice: 4
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631895358704
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3282:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLD_INGOT
+  buyPrice: 32
+  sellPrice: 16
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830301518
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3281:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: EMERALD
+  buyPrice: 16
+  sellPrice: 4
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632249923804
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3280:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: LAPIS_LAZULI
+  buyPrice: 8
+  sellPrice: 2
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830369985
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND
+  buyPrice: 1024
+  sellPrice: 256
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830420051
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3278:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: QUARTZ
+  buyPrice: 4
+  sellPrice: 2
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632335958375
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3277:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: AMETHYST_SHARD
+  buyPrice: 14
+  sellPrice: 1
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631830511149
+  admin: false
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3276:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_SCRAP
+  buyPrice: 3073
+  sellPrice: 1025
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632203909431
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3275:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_INGOT
+  buyPrice: 9216
+  sellPrice: 5120
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830639699
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3273:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: AXOLOTL_BUCKET
+  buyPrice: 512
+  sellPrice: 16
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631927420337
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3272:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_GOLDEN_APPLE
+  buyPrice: 2048
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830750098
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3271:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: TURTLE_HELMET
+  buyPrice: 3520
+  sellPrice: 128
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631830931814
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3270:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: END_CRYSTAL
+  buyPrice: 5845
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894655782
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: TRIDENT
+  buyPrice: 6144
+  sellPrice: 64
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831061894
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3268:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: TOTEM_OF_UNDYING
+  buyPrice: 2048
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632413008759
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3267:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ELYTRA
+  buyPrice: 32768
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831149027
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3266:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SADDLE
+  buyPrice: 128
+  sellPrice: 16
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831211360
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3265:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHER_STAR
+  buyPrice: 50176
+  sellPrice: 2048
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831257448
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: WITHER_SKELETON_SKULL
+  buyPrice: 26624
+  sellPrice: 128
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831339525
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3263:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENDER_PEARL
+    amount: 16
+  buyPrice: 4096
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632012703696
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENDER_EYE
+  buyPrice: 1792
+  sellPrice: 4
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894638198
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3167,60,3280:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_SWORD
+  buyPrice: 8
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831580957
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3167,60,3268:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_AXE
+  buyPrice: 8
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631831602709
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3168,60,3281:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_SWORD
+  buyPrice: 10240
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831650806
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3168,60,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_AXE
+  buyPrice: 10240
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831670697
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3168,60,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_SWORD
+  buyPrice: 16
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831709154
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3168,60,3267:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_AXE
+  buyPrice: 16
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631831727971
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3169,60,3268:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_AXE
+  buyPrice: 2560
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831763454
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3169,60,3280:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_SWORD
+  buyPrice: 1540
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631831800754
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3268:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Irrompibilidad III"}'
+      stored-enchants:
+        DURABILITY: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632504850628
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Reparación"}'
+      stored-enchants:
+        MENDING: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632524262384
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3267:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Eficiencia V"}'
+      stored-enchants:
+        DIG_SPEED: 5
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632370932634
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3266:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Toque de seda"}'
+      stored-enchants:
+        SILK_TOUCH: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832029752
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3265:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Fortuna III"}'
+      stored-enchants:
+        LOOT_BONUS_BLOCKS: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632245718140
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Protección IV"}'
+      stored-enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632439658995
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3187,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Protección contra explosiones IV"}'
+      stored-enchants:
+        PROTECTION_EXPLOSIONS: 4
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632170757891
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3188,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Protección contra proyectiles IV"}'
+      stored-enchants:
+        PROTECTION_PROJECTILE: 4
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832141850
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3189,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Protección contra el fuego IV"}'
+      stored-enchants:
+        PROTECTION_FIRE: 4
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832163783
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3190,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Espinas III"}'
+      stored-enchants:
+        THORNS: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832206566
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Afinidad acuática"}'
+      stored-enchants:
+        WATER_WORKER: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632413438659
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3265:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Respiración III"}'
+      stored-enchants:
+        OXYGEN: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632556311513
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3266:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Agilidad acuática III"}'
+      stored-enchants:
+        DEPTH_STRIDER: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632006407831
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3267:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Velocidad de alma III"}'
+      stored-enchants:
+        SOUL_SPEED: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632170852099
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3268:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Paso helado II"}'
+      stored-enchants:
+        FROST_WALKER: 2
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832425469
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Caída de pluma IV"}'
+      stored-enchants:
+        PROTECTION_FALL: 4
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632439690850
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3270:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Filo V"}'
+      stored-enchants:
+        DAMAGE_ALL: 5
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832460847
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3271:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Castigo V"}'
+      stored-enchants:
+        DAMAGE_UNDEAD: 5
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832490730
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3272:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Perdición de los artrópodos V"}'
+      stored-enchants:
+        DAMAGE_ARTHROPODS: 5
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832504430
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3273:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Barrido III"}'
+      stored-enchants:
+        SWEEPING_EDGE: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832520013
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3274:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Saqueo III"}'
+      stored-enchants:
+        LOOT_BONUS_MOBS: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632437136597
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3275:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Aspecto de fuego II"}'
+      stored-enchants:
+        FIRE_ASPECT: 2
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832636363
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3276:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Empuje II"}'
+      stored-enchants:
+        KNOCKBACK: 2
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832662262
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3277:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Poder V"}'
+      stored-enchants:
+        ARROW_DAMAGE: 5
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832678962
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3278:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Fuego"}'
+      stored-enchants:
+        ARROW_FIRE: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832710129
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Retroceso II"}'
+      stored-enchants:
+        ARROW_KNOCKBACK: 2
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832738478
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3280:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Infinidad"}'
+      stored-enchants:
+        ARROW_INFINITE: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632556241115
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3281:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Perforación IV"}'
+      stored-enchants:
+        PIERCING: 4
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832795048
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3282:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Multidisparo"}'
+      stored-enchants:
+        MULTISHOT: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832816777
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3283:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Carga rápida III"}'
+      stored-enchants:
+        QUICK_CHARGE: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832849127
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3191,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Empalamiento V"}'
+      stored-enchants:
+        IMPALING: 5
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832894446
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3190,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Lealtad III"}'
+      stored-enchants:
+        LOYALTY: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631832934910
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3189,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Propulsión acuática III"}'
+      stored-enchants:
+        RIPTIDE: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631832950151
+  admin: false
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3188,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Conductividad"}'
+      stored-enchants:
+        CHANNELING: 1
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631832963575
+  admin: false
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3187,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Atracción III"}'
+      stored-enchants:
+        LURE: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833000099
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      display-name: '{"text":"Suerte marina III"}'
+      stored-enchants:
+        LUCK: 3
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632245783846
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  buyPrice: 2048
+  sellPrice: 0
+  stack: 64
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632556323665
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3280:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ENCHANTING_TABLE
+  buyPrice: 1536
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833084308
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3281:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BOOK
+    amount: 4
+  buyPrice: 32
+  sellPrice: 0
+  stack: 4
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632524282737
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3282:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BOOKSHELF
+  buyPrice: 96
+  sellPrice: 0
+  stack: 0
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632414896144
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3186,57,3283:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: LECTERN
+  buyPrice: 128
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833173207
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3176,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_PORKCHOP
+    amount: 16
+  buyPrice: 64
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894693646
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3177,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_BEEF
+    amount: 16
+  buyPrice: 64
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894702956
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3178,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_MUTTON
+    amount: 16
+  buyPrice: 64
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894728948
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_COD
+    amount: 16
+  buyPrice: 40
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894758522
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3180,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: CARROT
+    amount: 32
+  buyPrice: 256
+  sellPrice: 0
+  stack: 32
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833402758
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: POTATO
+    amount: 32
+  buyPrice: 256
+  sellPrice: 0
+  stack: 32
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833431655
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3182,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: APPLE
+    amount: 16
+  buyPrice: 256
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833459121
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3183,57,3284:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_APPLE
+  buyPrice: 256
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833501556
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3283:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SWEET_BERRIES
+  buyPrice: 4
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833531458
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3282:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BEETROOT
+  buyPrice: 12
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631833578670
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3281:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GLOW_BERRIES
+    amount: 16
+  buyPrice: 512
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632437691947
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3280:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: HONEY_BOTTLE
+  buyPrice: 256
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632203862542
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: COOKED_SALMON
+    amount: 16
+  buyPrice: 128
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631894768855
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3278:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: MILK_BUCKET
+  buyPrice: 65
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833677303
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3270:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BREWING_STAND
+  buyPrice: 1539
+  sellPrice: 15
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632437708402
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SUGAR
+    amount: 64
+  buyPrice: 256
+  sellPrice: 0
+  stack: 64
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833772549
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3268:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GLISTERING_MELON_SLICE
+    amount: 16
+  buyPrice: 1024
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833813702
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3267:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: PUFFERFISH
+  buyPrice: 1024
+  sellPrice: 256
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833832969
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3266:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_CARROT
+    amount: 16
+  buyPrice: 1024
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833867519
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3184,57,3265:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DRAGON_BREATH
+    amount: 64
+  buyPrice: 8192
+  sellPrice: 0
+  stack: 64
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833886485
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3183,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: RABBIT_FOOT
+    amount: 16
+  buyPrice: 4096
+  sellPrice: 1024
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833899618
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3182,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: PHANTOM_MEMBRANE
+  buyPrice: 256
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632437720541
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GHAST_TEAR
+  buyPrice: 1024
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833970350
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3180,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: FERMENTED_SPIDER_EYE
+    amount: 16
+  buyPrice: 3072
+  sellPrice: 768
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833988351
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SLIME_BALL
+    amount: 64
+  buyPrice: 1536
+  sellPrice: 384
+  stack: 64
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631833997233
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3178,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BLAZE_POWDER
+    amount: 16
+  buyPrice: 1024
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631922685916
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3173,56,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: JUNGLE_SAPLING
+    amount: 8
+  buyPrice: 96
+  sellPrice: 8
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632066132928
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3173,56,3261:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SPRUCE_SAPLING
+  buyPrice: 64
+  sellPrice: 0
+  stack: 16
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631834979500
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3173,56,3260:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DARK_OAK_SAPLING
+    amount: 8
+  buyPrice: 32
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835014157
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3174,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DARK_OAK_LOG
+    amount: 8
+  buyPrice: 128
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835073822
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3175,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SPRUCE_LOG
+    amount: 8
+  buyPrice: 128
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835094656
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3176,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: OAK_LOG
+    amount: 8
+  buyPrice: 128
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835113573
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3177,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BIRCH_LOG
+    amount: 8
+  buyPrice: 128
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835150706
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3178,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: ACACIA_LOG
+    amount: 8
+  buyPrice: 128
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632439588760
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: JUNGLE_LOG
+    amount: 8
+  buyPrice: 128
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632203757878
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3180,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: CRIMSON_STEM
+    amount: 8
+  buyPrice: 256
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632436861384
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,56,3259:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: WARPED_STEM
+    amount: 8
+  buyPrice: 256
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632357206834
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3183,56,3260:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: WITHER_ROSE
+  buyPrice: 6144
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835335836
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3183,56,3261:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: TWISTING_VINES
+    amount: 64
+  buyPrice: 1024
+  sellPrice: 0
+  stack: 64
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835356069
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3182,56,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BAMBOO
+  buyPrice: 2048
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835371523
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,56,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BIRCH_SAPLING
+  buyPrice: 32
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631835396073
+  admin: false
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3180,56,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: CACTUS
+    amount: 64
+  buyPrice: 512
+  sellPrice: 0
+  stack: 64
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835424752
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,56,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: BIG_DRIPLEAF
+    amount: 8
+  buyPrice: 2048
+  sellPrice: 0
+  stack: 8
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835443772
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3178,56,3262:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SUGAR_CANE
+    amount: 16
+  buyPrice: 64
+  sellPrice: 0
+  stack: 16
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835470019
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_HELMET
+  buyPrice: 16
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835523417
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3270:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_CHESTPLATE
+  buyPrice: 16
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631835539735
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3271:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_LEGGINGS
+  buyPrice: 16
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835563701
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3272:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GOLDEN_BOOTS
+  buyPrice: 16
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835587667
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3276:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_BOOTS
+  buyPrice: 128
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631835683105
+  admin: false
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3277:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_LEGGINGS
+  buyPrice: 128
+  sellPrice: 0
+  stack: 1
+  amount: 0
+  vendorNote: ''
+  lastActive: 1631835716899
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3278:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_CHESTPLATE
+  buyPrice: 144
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835740749
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3181,57,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: IRON_HELMET
+  buyPrice: 128
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835766015
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3276:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_BOOTS
+  buyPrice: 4096
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835954580
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3277:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_LEGGINGS
+  buyPrice: 5120
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631835983383
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3278:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_CHESTPLATE
+  buyPrice: 8192
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631836017263
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3279:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: DIAMOND_HELMET
+  buyPrice: 5120
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631836044483
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3269:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_HELMET
+  buyPrice: 0
+  sellPrice: 1
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631836119001
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3270:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_CHESTPLATE
+  buyPrice: 0
+  sellPrice: 1
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631836086278
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3271:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_LEGGINGS
+  buyPrice: 0
+  sellPrice: 1
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631836139650
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3179,57,3272:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: NETHERITE_BOOTS
+  buyPrice: 0
+  sellPrice: 1
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1631836151166
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3164,60,3274:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: SHULKER_SHELL
+  buyPrice: 2048
+  sellPrice: 0
+  stack: 1
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632412831826
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
+world,3177,57,3264:
+  host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 2730
+    type: GLOWSTONE_DUST
+    amount: 4
+  buyPrice: 32
+  sellPrice: 0
+  stack: 4
+  amount: 2147483647
+  vendorNote: ''
+  lastActive: 1632437527844
+  admin: true
+  tag: ''
+  buyCommands: ''
+  sellCommands: ''
