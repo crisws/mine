@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.102.189
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1633460943785
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1633461970570
+  login: 1633459148804
+money: '0'
+last-account-name: brocoli
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -106.73250764741378
+  y: 79.0
+  z: -1091.0601965852816
+  yaw: 92.65411376953125
+  pitch: 21.515432357788086
+homes:
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -63.96925432392571
+    y: 71.0
+    z: -897.6810477965541
+    yaw: 157.60296630859375
+    pitch: 23.015342712402344
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -73.44584072901446
+  y: 75.0
+  z: -937.4013541362042
+  yaw: 57.250022888183594
+  pitch: 26.165327072143555

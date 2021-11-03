@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.252.241.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635537898847
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635537956114
+  login: 1635537400671
+money: '1453.78730000000008155'
+last-account-name: HeraCloud
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -397.4170362765163
+  y: 10.0
+  z: -1170.1844965572586
+  yaw: -123.59965515136719
+  pitch: 24.873559951782227
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 2720.5627180820825
+  y: 50.5625
+  z: 2138.533582945757
+  yaw: 152.25624084472656
+  pitch: 55.59352111816406
+homes:
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 2718.3438959726445
+    y: 50.0
+    z: 2136.841712642681
+    yaw: -40.62700271606445
+    pitch: 31.597768783569336

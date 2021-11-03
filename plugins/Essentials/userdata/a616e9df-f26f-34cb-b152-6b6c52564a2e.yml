@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.148.8.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635885571083
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635885620826
+  login: 1635883047219
+money: '0'
+last-account-name: CazadorLopez
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3177.5
+  y: 66.0
+  z: 3274.5
+  yaw: 89.06407928466797
+  pitch: -13.170714378356934
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 65.11642322979647
+  y: 67.0
+  z: 2230.6046784877713
+  yaw: -58.829345703125
+  pitch: 29.69999885559082

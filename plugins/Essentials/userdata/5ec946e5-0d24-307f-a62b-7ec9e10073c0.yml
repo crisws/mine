@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 187.149.138.110
+ip-address: 187.149.141.36
 afk: false
 socialspy: false
 npc: false
@@ -11,35 +11,35 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1632164308083
+  lastteleport: 1635521110764
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1632545896701
-  login: 1632545853277
+  logout: 1635741637185
+  login: 1635741371487
   kits:
     color: 1631688989673
     dtools: 1631689062226
     firework: 1631689101951
-money: '-816.18599999999999880'
+money: '2058.02599999999982391'
 last-account-name: crisws
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 3169.478899310342
-  y: 65.0
-  z: 3271.72869364583
-  yaw: 89.88162994384766
-  pitch: 19.602333068847656
+  x: 2296.9529108130455
+  y: 66.92678213211687
+  z: 1806.750895430173
+  yaw: -162.75128173828125
+  pitch: 17.399490356445312
 lastlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: -242.5
-  y: 69.42333510953983
-  z: -122.4456114246292
-  yaw: 0.0
-  pitch: 0.0
+  x: 23.926374878073002
+  y: 73.49667690866836
+  z: 2235.632207140613
+  yaw: -132.166748046875
+  pitch: 19.500049591064453
 homes:
   mina:
     world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
@@ -49,3 +49,11 @@ homes:
     z: -137.82108816340994
     yaw: 0.0
     pitch: 0.0
+  casa1:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 3013.0907434708233
+    y: 71.0
+    z: 2568.6532731884854
+    yaw: -57.4703369140625
+    pitch: 15.29971694946289

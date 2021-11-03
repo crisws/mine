@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-10-01 19:58:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-09-17 02:10:52 +0000"
@@ -601,6 +607,12 @@
       "minecraft:zombie": "2021-09-17 02:00:31 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-10-01 19:58:47 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1151,6 +1163,12 @@
       "has_iron_ingot": "2021-09-17 01:53:04 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2021-10-01 19:58:48 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/rail": {
     "criteria": {

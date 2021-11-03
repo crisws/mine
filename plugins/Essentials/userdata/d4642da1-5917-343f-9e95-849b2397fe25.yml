@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.52.204.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635902626527
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635902965378
+  login: 1635905109818
+money: '10879.8580000000002308'
+last-account-name: HeisenbergBR13
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 142.93060142932472
+  y: 4.0
+  z: 2255.699999988079
+  yaw: 17.98663330078125
+  pitch: 12.146225929260254
+homes:
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 75.03922944564252
+    y: 68.0
+    z: 2243.009718784569
+    yaw: 141.2059326171875
+    pitch: 20.849891662597656
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -290.3938533923653
+    y: 64.0
+    z: -223.55139788476765
+    yaw: -161.9637451171875
+    pitch: 22.199932098388672
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 343.5583117141475
+  y: 40.0
+  z: 2140.699999988079
+  yaw: 83.4505615234375
+  pitch: 13.799980163574219

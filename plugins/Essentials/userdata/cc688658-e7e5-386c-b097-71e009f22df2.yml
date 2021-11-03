@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 187.149.130.182
+ip-address: 187.149.138.110
 afk: false
 socialspy: false
 npc: false
@@ -16,26 +16,26 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1631924143979
-  login: 1631924073411
-money: '38.0'
+  logout: 1633113851112
+  login: 1633113112602
+money: '3110.0'
 last-account-name: crisws3
 lastlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 3108.0346538025783
-  y: 64.55321338701523
-  z: 3355.1543847119233
-  yaw: -163.09494018554688
-  pitch: 17.91739273071289
-logoutlocation:
-  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
-  world-name: world
   x: 3177.5
   y: 66.0
-  z: 3274.5
+  z: 3274.270117427655
   yaw: 91.31409454345703
   pitch: -13.320714950561523
+logoutlocation:
+  world: 39de9b39-24f3-4bf3-ac92-5d479b824410
+  world-name: world_nether
+  x: 403.2980644749178
+  y: 41.0
+  z: 441.3196603186691
+  yaw: 92.9554443359375
+  pitch: 7.228817939758301
 homes:
   home:
     world: c15650ca-63a3-489f-8a7d-c72a0a30efd6

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.31.213.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635904968187
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635916595276
+  login: 1635913625595
+money: '0'
+last-account-name: kereberox
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3183.6778489856006
+  y: 65.0
+  z: 3283.699999988079
+  yaw: 9.977877616882324
+  pitch: 17.960330963134766
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 341.3714502342473
+  y: 47.0
+  z: 2030.7901331249682
+  yaw: -165.053466796875
+  pitch: 0.6002865433692932

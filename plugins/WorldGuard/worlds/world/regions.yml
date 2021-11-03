@@ -18,6 +18,14 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    spawn2:
+        min: {x: 2931, y: 0, z: 2524}
+        max: {x: 3043, y: 255, z: 2632}
+        members: {}
+        flags: {enderpearl: deny, invincible: allow, pvp: deny, mob-spawning: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
     spawnsurvival:
         min: {x: 3150, y: 0, z: 3244}
         max: {x: 3213, y: 255, z: 3310}

@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.149.24.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634970286488
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634970413238
+  login: 1634962754323
+money: '62180.03199999999960481'
+last-account-name: Cebollin
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -529.8072570477776
+  y: 93.0
+  z: -1565.862500011921
+  yaw: 171.60162353515625
+  pitch: 34.35068893432617
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -515.190939175741
+  y: 116.0
+  z: -1240.9530756470772
+  yaw: 132.7781219482422
+  pitch: 13.799726486206055
+homes:
+  cebollin:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -520.2026029087584
+    y: 116.0
+    z: -1243.3783497046193
+    yaw: 2.323486328125
+    pitch: 40.650062561035156
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -522.270167599962
+    y: 116.0
+    z: -1243.8019672718565
+    yaw: 63.1734619140625
+    pitch: 47.99981689453125

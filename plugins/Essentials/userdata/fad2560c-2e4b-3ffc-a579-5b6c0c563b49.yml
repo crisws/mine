@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.99.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1634794283574
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1634794896849
+  login: 1634792219045
+money: '6542.37685000000021206'
+last-account-name: AlbertoLoera
+lastlocation:
+  world: 39de9b39-24f3-4bf3-ac92-5d479b824410
+  world-name: world_nether
+  x: -263.78817634230677
+  y: 64.875
+  z: -27.945741635955933
+  yaw: -32.53173828125
+  pitch: 14.549964904785156
+homes:
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -595.9446962412319
+    y: 93.0
+    z: -1090.484391501353
+    yaw: -114.705810546875
+    pitch: -2.3999197483062744
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -600.3593340188147
+  y: 93.0
+  z: -1094.3925413770273
+  yaw: -85.1494140625
+  pitch: 12.600109100341797

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.186.220.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635905101032
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635918084568
+  login: 1635917524954
+money: '682939.25829999999927935'
+last-account-name: bryannome
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -554.5264341391008
+  y: 87.0
+  z: -1103.7315905280964
+  yaw: -7.349918365478516
+  pitch: 30.899980545043945
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3855.6743115881886
+  y: 79.16929009388214
+  z: 4796.124352694786
+  yaw: -52.49700927734375
+  pitch: 50.249942779541016
+homes:
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -550.4545064461507
+    y: 87.0
+    z: -1102.46888236623
+    yaw: -44.63555908203125
+    pitch: 27.300209045410156

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.119.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1632697993148
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1632798776549
+  login: 1632798673325
+money: '0'
+last-account-name: korocholo
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -288.68979838705025
+  y: 61.0
+  z: -238.69999998807907
+  yaw: -10.060333251953125
+  pitch: 70.65001678466797
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -53.518856935165395
+  y: 71.0
+  z: -902.2630011643405
+  yaw: 152.39959716796875
+  pitch: 15.74985122680664

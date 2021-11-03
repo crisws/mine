@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.161.190.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635902541357
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635905379339
+  login: 1635895033077
+money: '2396.38194999999990553'
+last-account-name: H4WAR3
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 161.80012639451678
+  y: 16.0
+  z: 2452.6777211077724
+  yaw: 111.44674682617188
+  pitch: 23.549840927124023
+homes:
+  casa:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 71.11001996020661
+    y: 68.0
+    z: 2234.0782540308087
+    yaw: 37.693939208984375
+    pitch: 17.400691986083984
+  aranas:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 166.65428661881893
+    y: 16.0
+    z: 2452.3556369178073
+    yaw: 5.2556023597717285
+    pitch: 36.7498664855957
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3.516989183172629
+  y: 67.0
+  z: 2227.570655564964
+  yaw: 179.23681640625
+  pitch: 10.650154113769531

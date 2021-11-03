@@ -513,6 +513,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-09-02 06:14:09 +0000",
       "minecraft:spider": "2021-09-02 02:26:59 +0000",
+      "minecraft:creeper": "2021-10-13 04:50:01 +0000",
       "minecraft:zombified_piglin": "2021-09-02 05:11:35 +0000",
       "minecraft:witch": "2021-09-03 00:57:23 +0000",
       "minecraft:zombie": "2021-09-02 03:47:01 +0000",
@@ -817,6 +818,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2021-09-03 00:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-10-14 03:49:56 +0000"
     },
     "done": true
   },

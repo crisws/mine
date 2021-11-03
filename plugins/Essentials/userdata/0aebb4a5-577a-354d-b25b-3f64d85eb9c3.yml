@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.186.240.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635401934831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635401979220
+  login: 1635401905791
+money: '0'
+last-account-name: ElPiedroso
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3173.2889426075867
+  y: 65.0
+  z: 3274.477559917373
+  yaw: 87.9775161743164
+  pitch: 28.76027488708496
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -550.0639763298108
+  y: 87.0
+  z: -1100.5930210755641
+  yaw: -4.618299961090088
+  pitch: 17.240324020385742

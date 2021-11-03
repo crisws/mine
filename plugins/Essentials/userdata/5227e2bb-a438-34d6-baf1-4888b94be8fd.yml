@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.186.59.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635832771167
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635832940034
+  login: 1635827642408
+money: '12524.24780000000027106'
+last-account-name: SRMisalchichas
+lastlocation:
+  world: 39de9b39-24f3-4bf3-ac92-5d479b824410
+  world-name: world_nether
+  x: 379.68550898021095
+  y: 53.0
+  z: -227.59937655596718
+  yaw: 165.4208984375
+  pitch: 32.10011291503906
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -581.9397881276749
+  y: 102.0
+  z: -988.1019410042046
+  yaw: -59.55156707763672
+  pitch: 21.75016975402832
+homes:
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -585.0896244535687
+    y: 102.0
+    z: -996.0311270281239
+    yaw: 176.96441650390625
+    pitch: 28.35038185119629

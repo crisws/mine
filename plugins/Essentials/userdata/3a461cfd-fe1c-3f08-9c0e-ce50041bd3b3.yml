@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.228.101.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1635874708608
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1635874718260
+  login: 1635872599478
+money: '2563.2250000000000170'
+last-account-name: Alexchopper
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 46.46507381326554
+  y: 41.0
+  z: 2214.3855150655236
+  yaw: -153.10845947265625
+  pitch: 8.25014591217041
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -2.2119448180882113
+  y: 67.0
+  z: 2264.071614668845
+  yaw: -94.60497283935547
+  pitch: 30.60076904296875
+homes:
+  mina:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: 2337.0214626283464
+    y: 11.0
+    z: 3087.300000011921
+    yaw: 2.629845380783081
+    pitch: 24.14995002746582
+  home:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -1.3505258821503585
+    y: 67.0
+    z: 2264.0074341833542
+    yaw: -90.55502319335938
+    pitch: 44.40077590942383
