@@ -719,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-12-15 15:25:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
       "has_end_stone_bricks": "2021-10-01 15:52:21 +0000"
@@ -1386,6 +1392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-12-15 15:25:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2021-10-29 17:37:30 +0000"
@@ -1652,38 +1664,37 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:cold_ocean": "2021-09-01 21:17:03 +0000",
-      "minecraft:jungle_edge": "2021-10-19 19:18:34 +0000",
-      "minecraft:snowy_mountains": "2021-09-02 17:02:22 +0000",
-      "minecraft:forest": "2021-09-01 20:17:01 +0000",
-      "minecraft:mountains": "2021-09-01 20:08:29 +0000",
-      "minecraft:taiga": "2021-09-01 20:05:07 +0000",
-      "minecraft:desert_hills": "2021-09-01 20:18:20 +0000",
-      "minecraft:deep_cold_ocean": "2021-09-01 21:16:51 +0000",
-      "minecraft:snowy_tundra": "2021-09-01 23:34:04 +0000",
-      "minecraft:taiga_hills": "2021-10-19 18:53:25 +0000",
-      "minecraft:desert": "2021-09-01 20:17:41 +0000",
+      "minecraft:snowy_slopes": "2021-12-15 16:59:42 +0000",
+      "minecraft:taiga": "2021-10-19 18:53:25 +0000",
       "minecraft:frozen_river": "2021-09-03 23:29:57 +0000",
-      "minecraft:deep_frozen_ocean": "2021-10-19 18:53:58 +0000",
-      "minecraft:jungle": "2021-09-01 21:40:10 +0000",
-      "minecraft:birch_forest": "2021-09-01 15:57:22 +0000",
-      "minecraft:snowy_beach": "2021-09-04 21:18:38 +0000",
-      "minecraft:warm_ocean": "2021-10-22 18:52:23 +0000",
-      "minecraft:deep_lukewarm_ocean": "2021-09-01 20:07:40 +0000",
+      "minecraft:birch_forest": "2021-09-01 15:57:49 +0000",
+      "minecraft:windswept_hills": "2021-09-01 20:08:29 +0000",
+      "minecraft:wooded_badlands": "2021-09-01 20:50:58 +0000",
       "minecraft:badlands": "2021-09-01 20:49:56 +0000",
       "minecraft:savanna_plateau": "2021-09-01 21:00:59 +0000",
       "minecraft:beach": "2021-09-01 20:07:06 +0000",
       "minecraft:dark_forest": "2021-09-01 20:03:57 +0000",
+      "minecraft:sparse_jungle": "2021-10-19 19:18:34 +0000",
       "minecraft:river": "2021-09-01 15:57:02 +0000",
       "minecraft:lukewarm_ocean": "2021-09-01 20:07:33 +0000",
-      "minecraft:snowy_taiga": "2021-09-04 21:14:54 +0000",
-      "minecraft:birch_forest_hills": "2021-09-01 15:57:49 +0000",
-      "minecraft:wooded_mountains": "2021-09-01 20:10:19 +0000",
-      "minecraft:wooded_hills": "2021-09-24 21:15:41 +0000",
-      "minecraft:stone_shore": "2021-09-01 20:08:26 +0000",
-      "minecraft:wooded_badlands_plateau": "2021-09-01 20:50:58 +0000",
+      "minecraft:snowy_plains": "2021-09-01 23:34:04 +0000",
+      "minecraft:stony_shore": "2021-09-01 20:08:26 +0000",
+      "minecraft:snowy_taiga": "2021-09-06 18:03:08 +0000",
       "minecraft:swamp": "2021-09-01 15:54:01 +0000",
-      "minecraft:snowy_taiga_hills": "2021-09-06 18:03:08 +0000",
+      "minecraft:cold_ocean": "2021-09-01 21:17:03 +0000",
+      "minecraft:forest": "2021-09-24 21:15:41 +0000",
+      "minecraft:lush_caves": "2021-12-05 19:06:21 +0000",
+      "minecraft:deep_cold_ocean": "2021-09-01 21:16:51 +0000",
+      "minecraft:desert": "2021-09-01 20:17:41 +0000",
+      "minecraft:deep_frozen_ocean": "2021-10-19 18:53:58 +0000",
+      "minecraft:windswept_forest": "2021-09-01 20:10:19 +0000",
+      "minecraft:jungle": "2021-09-01 21:40:10 +0000",
+      "minecraft:snowy_beach": "2021-09-04 21:18:38 +0000",
+      "minecraft:warm_ocean": "2021-10-22 18:52:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2021-09-01 20:07:40 +0000",
+      "minecraft:frozen_peaks": "2021-12-15 17:03:56 +0000",
+      "minecraft:old_growth_birch_forest": "2021-12-15 15:20:28 +0000",
+      "minecraft:meadow": "2021-12-15 16:56:28 +0000",
       "minecraft:savanna": "2021-09-01 20:23:16 +0000",
       "minecraft:plains": "2021-09-01 15:53:08 +0000"
     },
@@ -2353,6 +2364,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-10-01 19:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2021-12-05 19:09:02 +0000"
     },
     "done": true
   },
@@ -3358,6 +3375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-12-15 15:25:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2021-09-03 14:34:10 +0000"
@@ -4024,5 +4047,5 @@
     },
     "done": true
   },
-  "DataVersion": 2730
+  "DataVersion": 2860
 }

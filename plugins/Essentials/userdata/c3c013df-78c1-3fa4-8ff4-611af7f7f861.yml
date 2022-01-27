@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 186.31.213.188
+ip-address: 186.31.216.177
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,37 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1635904968187
+  lastteleport: 1638160930627
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1635916595276
-  login: 1635913625595
-money: '0'
+  logout: 1638160945499
+  login: 1638159425674
+money: '1857.8204999999999933'
 last-account-name: kereberox
 lastlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 3183.6778489856006
-  y: 65.0
-  z: 3283.699999988079
-  yaw: 9.977877616882324
-  pitch: 17.960330963134766
+  x: -547.2613031321625
+  y: 64.0
+  z: 3685.6105167357514
+  yaw: 49.933929443359375
+  pitch: -7.800439834594727
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 341.3714502342473
-  y: 47.0
-  z: 2030.7901331249682
-  yaw: -165.053466796875
-  pitch: 0.6002865433692932
+  x: -778.5
+  y: 75.0
+  z: 3205.5
+  yaw: -96.60868072509766
+  pitch: 32.5499153137207
+homes:
+  kero:
+    world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+    world-name: world
+    x: -779.3063261588396
+    y: 75.0
+    z: 3206.396700748536
+    yaw: -164.5589599609375
+    pitch: 25.35011100769043

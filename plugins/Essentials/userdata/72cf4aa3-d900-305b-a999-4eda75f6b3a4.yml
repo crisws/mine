@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 187.161.190.71
+ip-address: 187.161.189.71
 afk: false
 socialspy: false
 npc: false
@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1635902541357
+  lastteleport: 1637517280478
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1635905379339
-  login: 1635895033077
-money: '2396.38194999999990553'
+  logout: 1637517903656
+  login: 1637516234987
+money: '3321.16224999999974627'
 last-account-name: H4WAR3
 lastlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 161.80012639451678
-  y: 16.0
-  z: 2452.6777211077724
-  yaw: 111.44674682617188
-  pitch: 23.549840927124023
+  x: 3168.1858957306417
+  y: 60.0
+  z: 3269.400038057402
+  yaw: 93.26065063476562
+  pitch: 12.029470443725586
 homes:
   casa:
     world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
@@ -37,19 +37,27 @@ homes:
     z: 2234.0782540308087
     yaw: 37.693939208984375
     pitch: 17.400691986083984
-  aranas:
+  home:
     world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
     world-name: world
-    x: 166.65428661881893
-    y: 16.0
-    z: 2452.3556369178073
-    yaw: 5.2556023597717285
-    pitch: 36.7498664855957
+    x: 3189.002736688549
+    y: 57.0
+    z: 3268.6863607004266
+    yaw: -5.437286376953125
+    pitch: 24.32929229736328
+  nether:
+    world: 39de9b39-24f3-4bf3-ac92-5d479b824410
+    world-name: world_nether
+    x: -75.99085054620865
+    y: 15.0
+    z: 480.7337332622287
+    yaw: -95.2440185546875
+    pitch: 19.049474716186523
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: 3.516989183172629
-  y: 67.0
-  z: 2227.570655564964
-  yaw: 179.23681640625
-  pitch: 10.650154113769531
+  x: 45.045022670818874
+  y: 80.0
+  z: 2290.3957833106656
+  yaw: -157.03460693359375
+  pitch: -17.99988555908203

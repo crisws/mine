@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-11-04 14:43:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2021-11-01 06:10:24 +0000"
@@ -593,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2021-11-11 18:45:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-10-29 17:57:59 +0000"
@@ -705,6 +717,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-10-29 17:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-11-04 14:43:58 +0000"
     },
     "done": true
   },
@@ -1020,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2021-11-11 18:45:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2021-10-29 17:46:35 +0000"
@@ -1233,6 +1257,7 @@
       "minecraft:taiga_hills": "2021-11-02 17:59:20 +0000",
       "minecraft:desert": "2021-10-29 17:45:51 +0000",
       "minecraft:birch_forest": "2021-11-01 05:58:26 +0000",
+      "minecraft:badlands": "2021-11-11 18:05:07 +0000",
       "minecraft:savanna_plateau": "2021-11-01 06:29:54 +0000",
       "minecraft:beach": "2021-10-29 19:40:28 +0000",
       "minecraft:dark_forest": "2021-11-02 16:44:22 +0000",
@@ -1241,6 +1266,7 @@
       "minecraft:wooded_mountains": "2021-11-01 06:56:14 +0000",
       "minecraft:wooded_hills": "2021-11-01 06:58:09 +0000",
       "minecraft:stone_shore": "2021-11-02 05:04:41 +0000",
+      "minecraft:wooded_badlands_plateau": "2021-11-11 18:07:49 +0000",
       "minecraft:swamp": "2021-11-02 16:49:51 +0000",
       "minecraft:savanna": "2021-11-01 06:29:49 +0000",
       "minecraft:plains": "2021-10-29 17:45:49 +0000"
@@ -1758,6 +1784,7 @@
       "sweet_berries": "2021-11-02 18:33:43 +0000",
       "cooked_beef": "2021-11-01 07:10:10 +0000",
       "baked_potato": "2021-11-01 01:45:31 +0000",
+      "tropical_fish": "2021-11-04 05:12:44 +0000",
       "potato": "2021-11-01 20:18:32 +0000",
       "bread": "2021-11-01 05:17:39 +0000",
       "rotten_flesh": "2021-10-29 19:10:35 +0000",
@@ -2453,6 +2480,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2021-11-11 18:16:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2021-10-29 17:46:35 +0000"
@@ -2528,6 +2561,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2021-10-29 19:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2021-11-11 18:45:18 +0000"
     },
     "done": true
   },
@@ -2937,6 +2976,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2021-10-29 18:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-11-04 14:43:58 +0000"
     },
     "done": true
   },

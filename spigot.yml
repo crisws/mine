@@ -22,7 +22,7 @@ settings:
   moved-too-quickly-multiplier: 10.0
   timeout-time: 60
   restart-on-crash: true
-  restart-script: ./start.sh
+  restart-script: ./startserver.sh
   netty-threads: 4
   log-villager-deaths: true
   log-named-deaths: true
@@ -63,6 +63,9 @@ players:
   disable-saving: false
 world-settings:
   default:
+    below-zero-generation-in-existing-chunks: true
+    thunder-chance: 100000
+    simulation-distance: default
     verbose: true
     mob-spawn-range: 6
     hopper-amount: 1

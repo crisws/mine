@@ -11,23 +11,23 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1635527840320
+  lastteleport: 1636784495403
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1635528457468
-  login: 1635526803181
-money: '44302.73744999996426386'
+  logout: 1637280380258
+  login: 1637278786484
+money: '53144.27044999996658136'
 last-account-name: LaTrusaIntrusa
 logoutlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: -65.72858961146929
+  x: -76.28944711090341
   y: 75.0
-  z: -929.5457490074585
-  yaw: -132.43453979492188
-  pitch: 20.367420196533203
+  z: -936.8746085151737
+  yaw: 78.28369140625
+  pitch: 24.958723068237305
 homes:
   casa:
     world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
@@ -48,16 +48,16 @@ homes:
   mina2:
     world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
     world-name: world
-    x: 1190.4388595589467
-    y: 64.0
-    z: 2823.493713353586
-    yaw: -113.978515625
-    pitch: 30.983564376831055
+    x: 3545.510666827499
+    y: 46.0
+    z: 3340.6589406635735
+    yaw: -92.188232421875
+    pitch: 5.075956344604492
 lastlocation:
   world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
   world-name: world
-  x: -559.2229591739689
-  y: 93.0
-  z: -1339.7330343551655
-  yaw: -170.24298095703125
-  pitch: 20.700298309326172
+  x: 4898.5863139991525
+  y: 92.0
+  z: 1906.6679784966748
+  yaw: -82.0308837890625
+  pitch: 37.93846130371094

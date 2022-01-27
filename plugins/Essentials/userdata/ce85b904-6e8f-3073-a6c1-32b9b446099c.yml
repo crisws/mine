@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.9.128.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1637825931552
+  login: 1637825927844
+money: '0'
+last-account-name: kishi1192
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -234.5
+  y: 64.0
+  z: -144.5
+  yaw: 1.0439891815185547
+  pitch: 0.0
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3177.5
+  y: 66.0
+  z: 3274.5
+  yaw: 87.8275146484375
+  pitch: 49.01027297973633

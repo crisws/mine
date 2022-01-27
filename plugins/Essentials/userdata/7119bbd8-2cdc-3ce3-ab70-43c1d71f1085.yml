@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.21.20.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1636615621261
+  login: 1636615617575
+money: '0'
+last-account-name: Yehcs
+lastlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: -235.5
+  y: 64.0
+  z: -157.5
+  yaw: 0.07107646018266678
+  pitch: 0.0
+logoutlocation:
+  world: c15650ca-63a3-489f-8a7d-c72a0a30efd6
+  world-name: world
+  x: 3177.5
+  y: 66.0
+  z: 3274.5
+  yaw: 87.8275146484375
+  pitch: 49.01027297973633

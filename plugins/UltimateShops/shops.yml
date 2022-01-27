@@ -5,14 +5,14 @@ world,3164,60,3286:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COAL
   buyPrice: 16
   sellPrice: 4
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1633113536569
+  lastActive: 1636574072126
   admin: true
   tag: ''
   buyCommands: ''
@@ -21,7 +21,7 @@ world,3164,60,3285:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: REDSTONE
   buyPrice: 16
   sellPrice: 8
@@ -37,7 +37,7 @@ world,3164,60,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: IRON_INGOT
     amount: 64
   buyPrice: 2112
@@ -54,7 +54,7 @@ world,3164,60,3283:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COPPER_INGOT
   buyPrice: 16
   sellPrice: 4
@@ -70,14 +70,14 @@ world,3164,60,3282:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLD_INGOT
   buyPrice: 32
   sellPrice: 16
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1634523937558
+  lastActive: 1636143071182
   admin: true
   tag: ''
   buyCommands: ''
@@ -86,14 +86,14 @@ world,3164,60,3281:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: EMERALD
   buyPrice: 16
   sellPrice: 4
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1634962911269
+  lastActive: 1636780309593
   admin: true
   tag: ''
   buyCommands: ''
@@ -102,7 +102,7 @@ world,3164,60,3280:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: LAPIS_LAZULI
   buyPrice: 8
   sellPrice: 2
@@ -118,12 +118,12 @@ world,3164,60,3279:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DIAMOND
   buyPrice: 1024
   sellPrice: 256
   stack: 1
-  amount: 2147483646
+  amount: 2147483647
   vendorNote: ''
   lastActive: 1635817390984
   admin: true
@@ -134,7 +134,7 @@ world,3164,60,3278:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: QUARTZ
   buyPrice: 4
   sellPrice: 2
@@ -150,7 +150,7 @@ world,3164,60,3277:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: AMETHYST_SHARD
   buyPrice: 14
   sellPrice: 1
@@ -166,14 +166,14 @@ world,3164,60,3276:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHERITE_SCRAP
   buyPrice: 3073
   sellPrice: 1025
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1632203909431
+  lastActive: 1636143053789
   admin: true
   tag: ''
   buyCommands: ''
@@ -182,7 +182,7 @@ world,3164,60,3272:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_GOLDEN_APPLE
   buyPrice: 2048
   sellPrice: 0
@@ -198,7 +198,7 @@ world,3164,60,3267:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ELYTRA
   buyPrice: 32768
   sellPrice: 0
@@ -214,7 +214,7 @@ world,3164,60,3266:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SADDLE
   buyPrice: 128
   sellPrice: 16
@@ -230,7 +230,7 @@ world,3164,60,3265:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHER_STAR
   buyPrice: 50176
   sellPrice: 2048
@@ -246,7 +246,7 @@ world,3164,60,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: WITHER_SKELETON_SKULL
   buyPrice: 26624
   sellPrice: 128
@@ -262,7 +262,7 @@ world,3186,57,3268:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -275,7 +275,7 @@ world,3186,57,3268:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635740844104
+  lastActive: 1637160163834
   admin: true
   tag: ''
   buyCommands: ''
@@ -284,7 +284,7 @@ world,3186,57,3269:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -297,7 +297,7 @@ world,3186,57,3269:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635555595882
+  lastActive: 1637160153373
   admin: true
   tag: ''
   buyCommands: ''
@@ -306,7 +306,7 @@ world,3186,57,3267:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -319,7 +319,7 @@ world,3186,57,3267:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635735514464
+  lastActive: 1637160157713
   admin: true
   tag: ''
   buyCommands: ''
@@ -328,7 +328,7 @@ world,3186,57,3266:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -350,7 +350,7 @@ world,3186,57,3265:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -363,7 +363,7 @@ world,3186,57,3265:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635695278548
+  lastActive: 1636735890540
   admin: true
   tag: ''
   buyCommands: ''
@@ -372,7 +372,7 @@ world,3186,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -385,7 +385,7 @@ world,3186,57,3264:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635743671027
+  lastActive: 1636854350020
   admin: true
   tag: ''
   buyCommands: ''
@@ -394,7 +394,7 @@ world,3187,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -416,7 +416,7 @@ world,3188,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -438,7 +438,7 @@ world,3189,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -460,7 +460,7 @@ world,3190,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -473,7 +473,7 @@ world,3190,57,3264:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635740870899
+  lastActive: 1636791080248
   admin: true
   tag: ''
   buyCommands: ''
@@ -482,7 +482,7 @@ world,3191,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -495,7 +495,7 @@ world,3191,57,3264:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635457358291
+  lastActive: 1636847890779
   admin: true
   tag: ''
   buyCommands: ''
@@ -504,7 +504,7 @@ world,3191,57,3265:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -517,7 +517,7 @@ world,3191,57,3265:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635491522525
+  lastActive: 1636847883788
   admin: true
   tag: ''
   buyCommands: ''
@@ -526,7 +526,7 @@ world,3191,57,3266:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -548,7 +548,7 @@ world,3191,57,3267:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -570,7 +570,7 @@ world,3191,57,3268:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -592,7 +592,7 @@ world,3191,57,3269:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -605,7 +605,7 @@ world,3191,57,3269:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635491528542
+  lastActive: 1636854367320
   admin: true
   tag: ''
   buyCommands: ''
@@ -614,7 +614,7 @@ world,3191,57,3270:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -627,7 +627,7 @@ world,3191,57,3270:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635459375252
+  lastActive: 1636758111694
   admin: true
   tag: ''
   buyCommands: ''
@@ -636,7 +636,7 @@ world,3191,57,3271:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -658,7 +658,7 @@ world,3191,57,3272:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -680,7 +680,7 @@ world,3191,57,3273:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -693,7 +693,7 @@ world,3191,57,3273:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635459440976
+  lastActive: 1636758127849
   admin: true
   tag: ''
   buyCommands: ''
@@ -702,7 +702,7 @@ world,3191,57,3274:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -715,7 +715,7 @@ world,3191,57,3274:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635459332483
+  lastActive: 1636765167219
   admin: true
   tag: ''
   buyCommands: ''
@@ -724,7 +724,7 @@ world,3191,57,3275:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -746,7 +746,7 @@ world,3191,57,3276:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -768,7 +768,7 @@ world,3191,57,3277:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -781,7 +781,7 @@ world,3191,57,3277:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635454290555
+  lastActive: 1636765184369
   admin: true
   tag: ''
   buyCommands: ''
@@ -790,7 +790,7 @@ world,3191,57,3278:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -803,7 +803,7 @@ world,3191,57,3278:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635454262635
+  lastActive: 1636765205671
   admin: true
   tag: ''
   buyCommands: ''
@@ -812,7 +812,7 @@ world,3191,57,3279:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -825,7 +825,7 @@ world,3191,57,3279:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635454282491
+  lastActive: 1636765209624
   admin: true
   tag: ''
   buyCommands: ''
@@ -834,7 +834,7 @@ world,3191,57,3280:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -847,7 +847,7 @@ world,3191,57,3280:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635454309445
+  lastActive: 1636765176120
   admin: true
   tag: ''
   buyCommands: ''
@@ -856,7 +856,7 @@ world,3191,57,3281:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -869,7 +869,7 @@ world,3191,57,3281:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635392424855
+  lastActive: 1636765216840
   admin: true
   tag: ''
   buyCommands: ''
@@ -878,7 +878,7 @@ world,3191,57,3282:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -900,7 +900,7 @@ world,3191,57,3283:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -922,7 +922,7 @@ world,3191,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -935,7 +935,7 @@ world,3191,57,3284:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635492490277
+  lastActive: 1635967186591
   admin: true
   tag: ''
   buyCommands: ''
@@ -944,7 +944,7 @@ world,3190,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -957,7 +957,7 @@ world,3190,57,3284:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635492458674
+  lastActive: 1635967536563
   admin: true
   tag: ''
   buyCommands: ''
@@ -966,7 +966,7 @@ world,3189,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -988,7 +988,7 @@ world,3188,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -1010,7 +1010,7 @@ world,3187,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -1032,7 +1032,7 @@ world,3186,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -1054,7 +1054,7 @@ world,3186,57,3279:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: EXPERIENCE_BOTTLE
     amount: 64
   buyPrice: 2048
@@ -1071,14 +1071,14 @@ world,3186,57,3280:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTING_TABLE
   buyPrice: 1536
   sellPrice: 0
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1634277191967
+  lastActive: 1636252140928
   admin: true
   tag: ''
   buyCommands: ''
@@ -1087,7 +1087,7 @@ world,3186,57,3281:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BOOK
     amount: 4
   buyPrice: 32
@@ -1104,14 +1104,14 @@ world,3186,57,3282:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BOOKSHELF
   buyPrice: 96
   sellPrice: 0
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635740031758
+  lastActive: 1636252152942
   admin: true
   tag: ''
   buyCommands: ''
@@ -1120,7 +1120,7 @@ world,3176,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COOKED_PORKCHOP
     amount: 16
   buyPrice: 64
@@ -1137,7 +1137,7 @@ world,3177,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COOKED_BEEF
     amount: 16
   buyPrice: 64
@@ -1154,7 +1154,7 @@ world,3178,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COOKED_MUTTON
     amount: 16
   buyPrice: 64
@@ -1162,7 +1162,7 @@ world,3178,57,3284:
   stack: 16
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1634100012933
+  lastActive: 1636133068831
   admin: true
   tag: ''
   buyCommands: ''
@@ -1171,7 +1171,7 @@ world,3179,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COOKED_COD
     amount: 16
   buyPrice: 40
@@ -1188,7 +1188,7 @@ world,3180,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: CARROT
     amount: 32
   buyPrice: 256
@@ -1205,7 +1205,7 @@ world,3181,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: POTATO
     amount: 32
   buyPrice: 256
@@ -1222,7 +1222,7 @@ world,3182,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: APPLE
     amount: 16
   buyPrice: 256
@@ -1239,7 +1239,7 @@ world,3183,57,3284:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLDEN_APPLE
   buyPrice: 256
   sellPrice: 0
@@ -1255,7 +1255,7 @@ world,3184,57,3283:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SWEET_BERRIES
   buyPrice: 4
   sellPrice: 0
@@ -1271,7 +1271,7 @@ world,3184,57,3282:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BEETROOT
   buyPrice: 12
   sellPrice: 0
@@ -1287,7 +1287,7 @@ world,3184,57,3281:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GLOW_BERRIES
     amount: 16
   buyPrice: 512
@@ -1304,7 +1304,7 @@ world,3184,57,3280:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: HONEY_BOTTLE
   buyPrice: 256
   sellPrice: 0
@@ -1320,7 +1320,7 @@ world,3184,57,3279:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COOKED_SALMON
     amount: 16
   buyPrice: 128
@@ -1337,7 +1337,7 @@ world,3184,57,3278:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: MILK_BUCKET
   buyPrice: 65
   sellPrice: 0
@@ -1353,7 +1353,7 @@ world,3184,57,3270:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BREWING_STAND
   buyPrice: 1539
   sellPrice: 15
@@ -1369,7 +1369,7 @@ world,3184,57,3268:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GLISTERING_MELON_SLICE
     amount: 16
   buyPrice: 1024
@@ -1386,7 +1386,7 @@ world,3184,57,3267:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: PUFFERFISH
   buyPrice: 1024
   sellPrice: 256
@@ -1402,7 +1402,7 @@ world,3184,57,3266:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLDEN_CARROT
     amount: 16
   buyPrice: 1024
@@ -1419,7 +1419,7 @@ world,3184,57,3265:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DRAGON_BREATH
     amount: 64
   buyPrice: 8192
@@ -1436,7 +1436,7 @@ world,3183,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: RABBIT_FOOT
     amount: 16
   buyPrice: 4096
@@ -1453,7 +1453,7 @@ world,3182,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: PHANTOM_MEMBRANE
   buyPrice: 256
   sellPrice: 0
@@ -1469,7 +1469,7 @@ world,3181,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GHAST_TEAR
   buyPrice: 1024
   sellPrice: 0
@@ -1485,7 +1485,7 @@ world,3180,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: FERMENTED_SPIDER_EYE
     amount: 16
   buyPrice: 3072
@@ -1502,7 +1502,7 @@ world,3179,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SLIME_BALL
     amount: 64
   buyPrice: 1536
@@ -1510,7 +1510,7 @@ world,3179,57,3264:
   stack: 64
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635640680410
+  lastActive: 1636573701585
   admin: true
   tag: ''
   buyCommands: ''
@@ -1519,7 +1519,7 @@ world,3178,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BLAZE_POWDER
     amount: 16
   buyPrice: 1024
@@ -1527,7 +1527,7 @@ world,3178,57,3264:
   stack: 16
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1633276152702
+  lastActive: 1635972007106
   admin: true
   tag: ''
   buyCommands: ''
@@ -1536,7 +1536,7 @@ world,3173,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: JUNGLE_SAPLING
     amount: 8
   buyPrice: 96
@@ -1553,7 +1553,7 @@ world,3173,56,3261:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SPRUCE_SAPLING
     amount: 16
   buyPrice: 64
@@ -1570,7 +1570,7 @@ world,3173,56,3260:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DARK_OAK_SAPLING
     amount: 8
   buyPrice: 32
@@ -1587,7 +1587,7 @@ world,3174,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DARK_OAK_LOG
     amount: 8
   buyPrice: 128
@@ -1595,7 +1595,7 @@ world,3174,56,3259:
   stack: 8
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635492209926
+  lastActive: 1635967252872
   admin: true
   tag: ''
   buyCommands: ''
@@ -1604,7 +1604,7 @@ world,3175,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SPRUCE_LOG
     amount: 8
   buyPrice: 128
@@ -1621,7 +1621,7 @@ world,3176,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: OAK_LOG
     amount: 8
   buyPrice: 128
@@ -1629,7 +1629,7 @@ world,3176,56,3259:
   stack: 8
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635488355641
+  lastActive: 1635967129485
   admin: true
   tag: ''
   buyCommands: ''
@@ -1638,7 +1638,7 @@ world,3177,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BIRCH_LOG
     amount: 8
   buyPrice: 128
@@ -1655,7 +1655,7 @@ world,3178,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ACACIA_LOG
     amount: 8
   buyPrice: 128
@@ -1672,7 +1672,7 @@ world,3179,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: JUNGLE_LOG
     amount: 8
   buyPrice: 128
@@ -1689,7 +1689,7 @@ world,3180,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: CRIMSON_STEM
     amount: 8
   buyPrice: 256
@@ -1706,7 +1706,7 @@ world,3181,56,3259:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: WARPED_STEM
     amount: 8
   buyPrice: 256
@@ -1714,7 +1714,7 @@ world,3181,56,3259:
   stack: 8
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1633740590000
+  lastActive: 1635967264788
   admin: true
   tag: ''
   buyCommands: ''
@@ -1723,7 +1723,7 @@ world,3183,56,3261:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: TWISTING_VINES
     amount: 64
   buyPrice: 1024
@@ -1740,7 +1740,7 @@ world,3182,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BAMBOO
   buyPrice: 2048
   sellPrice: 0
@@ -1756,7 +1756,7 @@ world,3181,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BIRCH_SAPLING
   buyPrice: 32
   sellPrice: 0
@@ -1772,7 +1772,7 @@ world,3180,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: CACTUS
     amount: 64
   buyPrice: 512
@@ -1789,7 +1789,7 @@ world,3179,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BIG_DRIPLEAF
     amount: 8
   buyPrice: 2048
@@ -1806,7 +1806,7 @@ world,3178,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SUGAR_CANE
     amount: 16
   buyPrice: 64
@@ -1823,7 +1823,7 @@ world,3181,57,3269:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLDEN_HELMET
   buyPrice: 16
   sellPrice: 0
@@ -1839,7 +1839,7 @@ world,3181,57,3270:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLDEN_CHESTPLATE
   buyPrice: 16
   sellPrice: 0
@@ -1855,7 +1855,7 @@ world,3181,57,3271:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLDEN_LEGGINGS
   buyPrice: 16
   sellPrice: 0
@@ -1871,7 +1871,7 @@ world,3181,57,3272:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GOLDEN_BOOTS
   buyPrice: 16
   sellPrice: 0
@@ -1887,7 +1887,7 @@ world,3181,57,3276:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: IRON_BOOTS
   buyPrice: 128
   sellPrice: 0
@@ -1903,7 +1903,7 @@ world,3181,57,3277:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: IRON_LEGGINGS
   buyPrice: 128
   sellPrice: 0
@@ -1919,7 +1919,7 @@ world,3181,57,3278:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: IRON_CHESTPLATE
   buyPrice: 144
   sellPrice: 0
@@ -1935,7 +1935,7 @@ world,3181,57,3279:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: IRON_HELMET
   buyPrice: 128
   sellPrice: 0
@@ -1951,7 +1951,7 @@ world,3179,57,3276:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DIAMOND_BOOTS
   buyPrice: 4096
   sellPrice: 0
@@ -1967,7 +1967,7 @@ world,3179,57,3277:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DIAMOND_LEGGINGS
   buyPrice: 5120
   sellPrice: 0
@@ -1983,7 +1983,7 @@ world,3179,57,3278:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DIAMOND_CHESTPLATE
   buyPrice: 8192
   sellPrice: 0
@@ -1999,7 +1999,7 @@ world,3179,57,3279:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DIAMOND_HELMET
   buyPrice: 5120
   sellPrice: 0
@@ -2015,7 +2015,7 @@ world,3179,57,3269:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHERITE_HELMET
   buyPrice: 0
   sellPrice: 1
@@ -2031,7 +2031,7 @@ world,3179,57,3270:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHERITE_CHESTPLATE
   buyPrice: 0
   sellPrice: 1
@@ -2047,7 +2047,7 @@ world,3179,57,3271:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHERITE_LEGGINGS
   buyPrice: 0
   sellPrice: 1
@@ -2063,7 +2063,7 @@ world,3179,57,3272:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHERITE_BOOTS
   buyPrice: 0
   sellPrice: 1
@@ -2079,14 +2079,14 @@ world,3164,60,3274:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SHULKER_SHELL
   buyPrice: 2048
   sellPrice: 0
   stack: 1
-  amount: 2147483646
+  amount: 2147483647
   vendorNote: ''
-  lastActive: 1635885154325
+  lastActive: 1635965957261
   admin: true
   tag: ''
   buyCommands: ''
@@ -2095,7 +2095,7 @@ world,3177,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GLOWSTONE_DUST
     amount: 4
   buyPrice: 32
@@ -2112,7 +2112,7 @@ world_nether,405,42,448:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BLACK_SHULKER_BOX
     meta:
       ==: ItemMeta
@@ -2133,7 +2133,7 @@ world,3187,37,3281:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ROTTEN_FLESH
     amount: 64
   buyPrice: 0
@@ -2141,7 +2141,7 @@ world,3187,37,3281:
   stack: 64
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635814889924
+  lastActive: 1636851436255
   admin: true
   tag: ''
   buyCommands: ''
@@ -2150,7 +2150,7 @@ world,3184,57,3257:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SEA_LANTERN
   buyPrice: 18
   sellPrice: 4
@@ -2166,7 +2166,7 @@ world,3184,57,3264:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: GUNPOWDER
     amount: 16
   buyPrice: 64
@@ -2183,7 +2183,7 @@ world,3184,57,3269:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: NETHER_WART
     amount: 2
   buyPrice: 64
@@ -2200,7 +2200,7 @@ world,3013,67,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: SPORE_BLOSSOM
   buyPrice: 64
   sellPrice: 0
@@ -2216,7 +2216,7 @@ world,3010,67,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: TUBE_CORAL
     amount: 2
   buyPrice: 8
@@ -2233,7 +2233,7 @@ world,3011,67,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: HORN_CORAL
   buyPrice: 8
   sellPrice: 1
@@ -2249,7 +2249,7 @@ world,3009,67,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: FIRE_CORAL
   buyPrice: 8
   sellPrice: 1
@@ -2265,7 +2265,7 @@ world,3012,67,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BUBBLE_CORAL
   buyPrice: 8
   sellPrice: 1
@@ -2281,7 +2281,7 @@ world,3014,67,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: POTION
     meta:
       ==: ItemMeta
@@ -2299,7 +2299,7 @@ world,3014,67,2596:
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635609894932
+  lastActive: 1636825510735
   admin: true
   tag: ''
   buyCommands: ''
@@ -2308,7 +2308,7 @@ world,3010,72,2596:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: POTION
     meta:
       ==: ItemMeta
@@ -2335,7 +2335,7 @@ world,3020,71,2593:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -2362,7 +2362,7 @@ world,3014,67,2565:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: END_ROD
   buyPrice: 8
   sellPrice: 0
@@ -2378,7 +2378,7 @@ world,3010,67,2567:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: END_STONE_BRICKS
     amount: 64
   buyPrice: 128
@@ -2395,7 +2395,7 @@ world,3011,67,2567:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: PURPUR_BLOCK
     amount: 32
   buyPrice: 512
@@ -2412,7 +2412,7 @@ world,3012,71,2564:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENCHANTED_BOOK
     meta:
       ==: ItemMeta
@@ -2440,7 +2440,7 @@ world,3009,71,2570:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: ENDER_PEARL
     amount: 16
   buyPrice: 0
@@ -2457,7 +2457,7 @@ world,3018,71,2559:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: IRON_INGOT
   buyPrice: 0
   sellPrice: 16
@@ -2473,7 +2473,7 @@ world,3011,66,2564:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: DRAGON_HEAD
   buyPrice: 0
   sellPrice: 2048
@@ -2489,7 +2489,7 @@ world,3020,71,2585:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: TURTLE_EGG
   buyPrice: 0
   sellPrice: 2048
@@ -2505,7 +2505,7 @@ world,3013,71,2589:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COOKED_BEEF
     amount: 64
   buyPrice: 256
@@ -2522,7 +2522,7 @@ world,3017,71,2567:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: FLOWERING_AZALEA
   buyPrice: 1025
   sellPrice: 1
@@ -2538,7 +2538,7 @@ world_nether,397,42,441:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: COAL
     meta:
       ==: ItemMeta
@@ -2562,7 +2562,7 @@ world_nether,400,42,438:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: BRICK
     meta:
       ==: ItemMeta
@@ -2586,7 +2586,7 @@ world_nether,400,42,444:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: WHITE_DYE
     meta:
       ==: ItemMeta
@@ -2599,7 +2599,7 @@ world_nether,400,42,444:
   buyPrice: 0
   sellPrice: 256
   stack: 1
-  amount: -2147483648
+  amount: 2147483647
   vendorNote: ''
   lastActive: 1635873474919
   admin: true
@@ -2610,7 +2610,7 @@ world,3183,56,3262:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: WITHER_ROSE
   buyPrice: 4096
   sellPrice: 0
@@ -2626,14 +2626,14 @@ world,3164,60,3271:
   host: 5ec946e5-0d24-307f-a62b-7ec9e10073c0
   item:
     ==: org.bukkit.inventory.ItemStack
-    v: 2730
+    v: 2860
     type: POWDER_SNOW_BUCKET
   buyPrice: 512
   sellPrice: 0
   stack: 1
   amount: 2147483647
   vendorNote: ''
-  lastActive: 1635569760631
+  lastActive: 1636780193644
   admin: true
   tag: ''
   buyCommands: ''

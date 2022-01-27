@@ -1,6 +1,6 @@
 #!/bin/bash
 
-JAR=spigot-1.17.1.jar
+JAR=spigot-1.18.jar
 MAXRAM=2048M
 MINRAM=2048M
 TIME=20
